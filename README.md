@@ -61,8 +61,7 @@ O Dashboard pode ser acessado através desse link:  [Alunos Glosa](https://githu
 
 E o projeto pode ser visualizado tanto em Desktop quanto em dispositivos móveis:
 <h1 align="center">
-  <img alt="Imagem Demonstrativa 1" title="#Img1" src="https://user-images.githubusercontent.com/33897566/228261270-aa052c98-04dc-42d7-ad09-4015a71124d3.PNG" style="width: 800px;" />
-  <img alt="Imagem Demonstrativa 2" title="#Img2" src="https://user-images.githubusercontent.com/33897566/228261321-37d2a287-b544-4da2-aedd-c29308d02519.PNG" style="width: 380px;" />
+  <img alt="Imagem Demonstrativa 1" title="#Img1" src="https://github.com/matheusmmmp/dataAnalysis-student/blob/main/print1.PNG" style="width: 800px;" />
 </h1>
 
 ---
