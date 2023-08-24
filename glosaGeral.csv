@@ -1,0 +1,956 @@
+idAluno,IES,PRIMEIRA_PARCELA,NUM_DIAS_EM_ABERTO,NUM_PARCELAS_EM_ABERTO,VALOR_TOTAL_ABERTO,OBSERVACAO,DATA,idStatus,GLOSA
+9791.0,UniABCD,2022-01-11,203,9,2641.72,nunca frequentou,,0,1
+7705.0,UniABCD,2022-01-11,203,7,2117.36,formado,,1,1
+7764.0,UniABCD,2022-01-11,203,7,2111.2,frequenta,,2,1
+9734.0,UniABCD,2022-01-11,203,7,2004.52,frequenta,,2,1
+9119.0,UniABCD,2022-01-11,203,7,1911.91,nunca frequentou,,0,1
+8309.0,UniABCD,2022-01-11,203,7,2111.2,em conclusão,,3,1
+8430.0,UniABCD,2022-05-11,199,7,1813.66,frequenta,,2,1
+8609.0,UniABCD,2022-01-11,203,7,2111.2,em conclusão,,3,1
+9714.0,UniABCD,2022-01-11,203,7,2117.36,frequenta,,2,1
+7436.0,UniABCD,2022-01-11,203,7,2111.2,frequenta,,2,1
+10983.0,UniABCD,2022-05-11,199,7,1750.0,nunca frequentou,,0,1
+10289.0,UniABCD,2022-01-11,203,7,2111.2,frequenta,,2,1
+9617.0,UniABCD,2022-01-11,203,7,2592.24,frequenta,,2,1
+7742.0,UniABCD,2022-01-11,203,7,2111.2,nunca frequentou,,0,1
+10543.0,UniABCD,2022-01-11,203,7,2940.91,frequenta,,2,1
+10199.0,UniABCD,2022-01-11,203,7,2004.52,frequenta,,2,1
+8894.0,UniABCD,2022-01-11,203,7,2940.91,frequenta,,2,1
+7417.0,UniABCD,2022-01-11,203,7,2111.2,em conclusão,,3,1
+8085.0,UniABCD,2022-01-11,203,7,1809.5,concluiu todas disciplinas,,4,1
+9882.0,UniABCD,2022-01-11,203,7,2004.52,nunca frequentou,,0,1
+9510.0,UniABCD,2022-01-11,203,7,1870.96,formado,,1,1
+9153.0,UniABCD,2022-01-11,203,7,1870.96,formado,,1,1
+10556.0,UniABCD,2022-01-11,203,7,1838.34,concluiu todas disciplinas,,4,1
+9932.0,UniABCD,2022-01-11,203,7,2158.31,concluiu todas disciplinas,,4,1
+10246.0,UniABCD,2022-01-11,203,7,2111.2,em conclusão,,3,1
+8292.0,UniABCD,2022-01-11,203,7,2111.2,frequenta,,2,1
+9258.0,UniABCD,2022-01-11,203,7,2940.91,frequenta,,2,1
+8412.0,UniABCD,2022-05-11,199,7,2063.81,nunca frequentou,,0,1
+8977.0,UniABCD,2022-01-11,203,7,2111.2,formado,,1,1
+9440.0,UniABCD,2022-05-11,199,7,2063.81,nunca frequentou,,0,1
+9008.0,UniABCD,2022-01-11,203,7,2117.36,frequenta,,2,1
+9020.0,UniABCD,2022-01-11,203,7,2111.2,em conclusão,,3,1
+8458.0,UniABCD,2022-01-11,203,7,2021.04,formado,,1,1
+9295.0,UniABCD,2022-01-11,203,7,2111.2,em conclusão,,3,1
+8748.0,UniABCD,2022-01-11,203,7,2940.91,frequenta,,2,1
+9902.0,UniABCD,2022-01-11,203,7,2111.2,em conclusão,,3,1
+8932.0,UniABCD,2022-01-11,203,7,2004.52,frequenta,,2,1
+10990.0,UniABCD,2022-05-11,199,7,1308.2,nunca frequentou,,0,1
+8337.0,UniABCD,2022-05-11,199,7,2062.06,nunca frequentou,,0,1
+8621.0,UniABCD,2022-01-11,203,7,1809.5,concluiu todas disciplinas,,4,1
+8918.0,UniABCD,2022-01-11,203,7,2940.91,em conclusão,,3,1
+7618.0,UniABCD,2022-01-11,203,7,1870.96,formado,,1,1
+9142.0,UniABCD,2022-01-11,203,7,1937.53,em conclusão,,3,1
+8272.0,UniABCD,2022-01-11,203,7,2004.52,frequenta,,2,1
+8406.0,UniABCD,2022-01-11,203,7,1857.29,nunca frequentou,,0,1
+7551.0,UniABCD,2022-01-11,203,7,1770.72,nunca frequentou,,0,1
+8253.0,UniABCD,2022-01-11,203,7,2609.25,formado,,1,1
+7868.0,UniABCD,2022-01-11,203,7,2004.52,frequenta,,2,1
+9905.0,UniABCD,2022-01-11,203,7,2940.91,frequenta,,2,1
+10178.0,UniABCD,2022-01-11,203,7,2117.36,frequenta,,2,1
+9522.0,UniABCD,2022-01-11,203,7,2111.2,em conclusão,,3,1
+8035.0,UniABCD,2022-01-11,203,7,1870.96,frequenta,,2,1
+10146.0,UniABCD,2022-01-11,203,7,2004.52,frequenta,,2,1
+9474.0,UniABCD,2022-01-11,203,7,1809.5,concluiu todas disciplinas,,4,1
+9602.0,UniABCD,2022-01-11,203,7,2940.91,frequenta,,2,1
+8602.0,UniABCD,2022-01-11,203,7,2004.52,frequenta,,2,1
+10563.0,UniABCD,2022-01-11,203,7,2040.5,concluiu todas disciplinas,,4,1
+9815.0,UniABCD,2022-01-11,203,7,1809.5,formado,,1,1
+8029.0,UniABCD,2022-05-11,199,7,2063.81,frequenta,,2,1
+8387.0,UniABCD,2022-05-11,199,7,2063.81,nunca frequentou,,0,1
+10210.0,UniABCD,2022-01-11,203,7,2004.52,frequenta,,2,1
+8069.0,UniABCD,2022-01-11,203,7,2940.91,frequenta,,2,1
+10212.0,UniABCD,2022-01-11,203,7,1870.96,formado,,1,1
+10104.0,UniABCD,2022-01-11,203,7,1870.96,em conclusão,,3,1
+9722.0,UniABCD,2022-01-11,203,7,2111.2,em conclusão,,3,1
+9172.0,UniABCD,2022-01-11,203,7,2111.2,frequenta,,2,1
+8377.0,UniABCD,2022-01-11,203,7,2111.2,em conclusão,,3,1
+13369.0,UniABCD,2022-05-12,169,6,1681.08,frequenta,,2,1
+8067.0,UniABCD,2022-01-11,203,6,1749.0,formado,,1,1
+8281.0,UniABCD,2022-01-11,203,6,1608.24,formado,,1,1
+13381.0,UniABCD,2022-05-12,169,6,1768.98,nunca frequentou,,0,1
+13384.0,UniABCD,2022-01-12,173,6,2772.84,frequenta,,2,1
+7812.0,UniABCD,2022-01-11,203,6,1749.0,formado,,1,1
+13420.0,UniABCD,2022-05-12,169,6,2277.57,frequenta,,2,1
+13428.0,UniABCD,2022-05-12,169,6,1788.0,nunca frequentou,,0,1
+13434.0,UniABCD,2022-05-12,169,6,1560.0,frequenta,,2,1
+11221.0,UniABCD,2022-05-12,169,6,1767.48,frequenta,,2,1
+11859.0,UniABCD,2022-05-12,169,6,1679.58,nunca frequentou,,0,1
+7740.0,UniABCD,2022-01-12,173,6,1809.6,frequenta,,2,1
+13454.0,UniABCD,2022-01-12,173,6,1563.6,formado,,1,1
+9409.0,UniABCD,2022-01-11,203,6,1608.24,frequenta,,2,1
+13460.0,UniABCD,2022-05-12,169,6,1649.18,nunca frequentou,,0,1
+9827.0,UniABCD,2022-01-11,203,6,1575.72,concluiu todas disciplinas,,4,1
+9759.0,UniABCD,2022-01-11,203,6,1809.6,formado,,1,1
+9226.0,UniABCD,2022-05-12,169,6,2445.48,nunca frequentou,,0,1
+13481.0,UniABCD,2022-05-12,169,6,1768.98,nunca frequentou,,0,1
+7727.0,UniABCD,2022-01-11,203,6,2521.26,formado,,1,1
+18007.0,UniABCD,2023-05-01,138,5,1472.9,nunca frequentou,,0,1
+18012.0,UniABCD,2023-05-01,138,5,1472.9,nunca frequentou,,0,1
+10356.0,UniABCD,2023-05-01,138,5,1472.9,nunca frequentou,,0,1
+18014.0,UniABCD,2023-05-01,138,5,1472.9,nunca frequentou,,0,1
+18021.0,UniABCD,2023-05-01,138,5,1472.9,nunca frequentou,,0,1
+18028.0,UniABCD,2023-05-01,138,5,1472.9,nunca frequentou,,0,1
+18026.0,UniABCD,2023-05-01,138,5,1472.9,nunca frequentou,,0,1
+9481.0,UniABCD,2022-01-11,203,5,1336.4,formado,,1,1
+8865.0,UniABCD,2022-01-11,203,5,1264.8,formado,,1,1
+18029.0,UniABCD,2023-05-01,138,5,1399.65,nunca frequentou,,0,1
+18031.0,UniABCD,2023-05-01,138,5,1512.4,nunca frequentou,,0,1
+10323.0,UniABCD,2022-01-11,203,5,1508.0,formado,,1,1
+7811.0,UniABCD,2022-01-11,203,5,2100.65,formado,,1,1
+12117.0,UniABCD,2022-01-11,203,5,1336.4,concluiu todas disciplinas,,4,1
+10011.0,UniABCD,2022-01-11,203,5,1927.9,frequenta,,2,1
+8322.0,UniABCD,2022-01-11,203,5,1508.0,formado,,1,1
+10489.0,UniABCD,2022-01-11,203,5,1512.4,formado,,1,1
+16917.0,UniABCD,2023-05-01,138,5,1490.0,nunca frequentou,,0,1
+18069.0,UniABCD,2023-05-01,138,5,1399.65,nunca frequentou,,0,1
+8287.0,UniABCD,2022-05-11,199,5,1482.5,nunca frequentou,,0,1
+18081.0,UniABCD,2023-05-01,138,5,1474.15,nunca frequentou,,0,1
+18093.0,UniABCD,2023-05-01,138,5,1321.0,nunca frequentou,,0,1
+18092.0,UniABCD,2023-05-01,138,5,1399.65,nunca frequentou,,0,1
+21266.0,UniABCD,2023-05-02,107,4,1630.32,nunca frequentou,,0,0
+21194.0,UniABCD,2023-05-02,107,4,1178.32,nunca frequentou,,0,0
+10231.0,UniABCD,2022-05-11,199,4,1119.72,nunca frequentou,,0,0
+8034.0,UniABCD,2022-01-11,203,4,1166.0,formado,,1,0
+21233.0,UniABCD,2023-05-02,107,4,1178.32,nunca frequentou,,0,0
+21251.0,UniABCD,2023-05-02,107,4,1630.32,nunca frequentou,,0,0
+7977.0,UniABCD,2022-01-11,203,4,1069.12,formado,,1,0
+21118.0,UniABCD,2023-05-02,107,4,1120.47,nunca frequentou,,0,0
+11504.0,UniABCD,2023-01-02,111,4,1233.32,frequenta,,2,0
+7549.0,UniABCD,2022-01-11,203,4,1072.16,formado,,1,0
+21089.0,UniABCD,2023-05-02,107,4,1119.72,nunca frequentou,,0,0
+10353.0,UniABCD,2022-01-11,203,4,1050.48,formado,,1,0
+7701.0,UniABCD,2022-01-11,203,4,1069.12,formado,,1,0
+7515.0,UniABCD,2022-01-11,203,4,1145.44,nunca frequentou,,0,0
+8466.0,UniABCD,2022-01-11,203,4,1069.12,formado,,1,0
+10986.0,UniABCD,2022-05-11,199,4,850.84,nunca frequentou,,0,0
+21271.0,UniABCD,2023-05-02,107,4,1178.32,nunca frequentou,,0,0
+9187.0,UniABCD,2022-01-11,203,4,1069.12,formado,,1,0
+21190.0,UniABCD,2023-05-02,107,4,1119.72,nunca frequentou,,0,0
+9860.0,UniABCD,2022-01-11,203,4,1680.52,nunca frequentou,,0,0
+7686.0,UniABCD,2022-01-11,203,4,1069.12,formado,,1,0
+21127.0,UniABCD,2023-05-02,107,4,1120.72,nunca frequentou,,0,0
+9745.0,UniABCD,2022-01-11,203,4,1206.4,formado,,1,0
+9103.0,UniABCD,2023-05-02,107,4,1119.72,nunca frequentou,,0,0
+9915.0,UniABCD,2022-01-11,203,4,1050.48,formado,,1,0
+7694.0,UniABCD,2022-01-11,203,4,1011.84,concluiu todas disciplinas,,4,0
+9167.0,UniABCD,2022-01-11,203,4,1050.48,formado,,1,0
+21216.0,UniABCD,2023-05-02,107,4,920.0,nunca frequentou,,0,0
+11383.0,UniABCD,2022-05-11,199,4,1094.08,formado,,1,0
+21105.0,UniABCD,2023-05-02,107,4,1119.72,nunca frequentou,,0,0
+9069.0,UniABCD,2022-01-11,203,4,1069.12,formado,,1,0
+21264.0,UniABCD,2023-05-02,107,4,1178.32,frequenta,,2,0
+9883.0,UniABCD,2022-01-11,203,4,1069.12,formado,,1,0
+21225.0,UniABCD,2023-05-02,107,4,1178.32,frequenta,,2,0
+10266.0,UniABCD,2022-01-11,203,4,1145.44,nunca frequentou,,0,0
+21276.0,UniABCD,2023-01-02,111,4,1206.4,nunca frequentou,,0,0
+10394.0,UniABCD,2022-05-11,199,4,1612.44,nunca frequentou,,0,0
+8364.0,UniABCD,2022-01-11,203,4,1113.12,nunca frequentou,,0,0
+30794.0,UniABCD,2023-05-03,79,3,840.54,nunca frequentou,,0,0
+7855.0,UniABCD,2022-01-11,203,3,801.84,formado,,1,0
+31835.0,UniABCD,2023-05-03,79,3,754.74,nunca frequentou,,0,0
+31837.0,UniABCD,2023-05-03,79,3,754.74,nunca frequentou,,0,0
+31839.0,UniABCD,2023-05-03,79,3,840.54,nunca frequentou,,0,0
+30813.0,UniABCD,2023-05-03,79,3,883.74,nunca frequentou,,0,0
+7827.0,UniABCD,2023-01-02,111,3,775.5,formado,,1,0
+30823.0,UniABCD,2023-05-03,79,3,750.0,nunca frequentou,,0,0
+30825.0,UniABCD,2023-05-03,79,3,884.49,nunca frequentou,,0,0
+9607.0,UniABCD,2022-01-11,203,3,904.8,concluiu todas disciplinas,,4,0
+31843.0,UniABCD,2023-05-03,79,3,884.49,nunca frequentou,,0,0
+30838.0,UniABCD,2023-05-03,79,3,884.49,nunca frequentou,,0,0
+8452.0,UniABCD,2022-01-11,203,3,878.79,fazendo disciplinas pendentes,,5,0
+30855.0,UniABCD,2023-05-03,79,3,840.54,nunca frequentou,,0,0
+9117.0,UniABCD,2022-01-11,203,3,775.5,formado,,1,0
+30877.0,UniABCD,2023-05-03,79,3,884.49,nunca frequentou,,0,0
+9315.0,UniABCD,2022-01-11,203,3,830.37,formado,,1,0
+30883.0,UniABCD,2023-05-03,79,3,884.49,nunca frequentou,,0,0
+31858.0,UniABCD,2023-05-03,79,3,1161.87,nunca frequentou,,0,0
+31874.0,UniABCD,2023-05-03,79,3,840.54,nunca frequentou,,0,0
+31879.0,UniABCD,2023-05-03,79,3,787.05,nunca frequentou,,0,0
+30936.0,UniABCD,2023-05-03,79,3,884.49,nunca frequentou,,0,0
+30940.0,UniABCD,2023-05-03,79,3,750.0,nunca frequentou,,0,0
+30944.0,UniABCD,2023-05-03,79,3,840.54,nunca frequentou,,0,0
+30951.0,UniABCD,2023-05-03,79,3,750.0,nunca frequentou,,0,0
+30960.0,UniABCD,2023-05-03,79,3,840.54,frequenta,,2,0
+31893.0,UniABCD,2023-05-03,79,3,884.49,nunca frequentou,,0,0
+31884.0,UniABCD,2023-05-03,79,3,1161.87,nunca frequentou,,0,0
+30968.0,UniABCD,2023-05-03,79,3,750.0,nunca frequentou,,0,0
+30982.0,UniABCD,2023-05-03,79,3,894.0,nunca frequentou,,0,0
+7577.0,UniABCD,2022-01-11,203,3,907.44,formado,,1,0
+30998.0,UniABCD,2023-05-03,79,3,884.49,nunca frequentou,,0,0
+10060.0,UniABCD,2022-01-11,203,3,904.8,formado,,1,0
+31007.0,UniABCD,2023-05-03,79,3,840.54,nunca frequentou,,0,0
+18042.0,UniABCD,2023-05-03,79,3,894.0,nunca frequentou,,0,0
+31013.0,UniABCD,2023-05-03,79,3,750.0,nunca frequentou,,0,0
+31018.0,UniABCD,2023-05-03,79,3,840.54,nunca frequentou,,0,0
+18043.0,UniABCD,2023-05-01,138,3,839.79,nunca frequentou,,0,0
+31911.0,UniABCD,2023-05-03,79,3,840.54,nunca frequentou,,0,0
+31924.0,UniABCD,2023-05-03,79,3,840.54,nunca frequentou,,0,0
+31047.0,UniABCD,2023-05-03,79,3,840.54,nunca frequentou,,0,0
+31049.0,UniABCD,2023-05-03,79,3,840.54,frequenta,,2,0
+31932.0,UniABCD,2023-05-03,79,3,884.49,nunca frequentou,,0,0
+31070.0,UniABCD,2023-05-03,79,3,884.49,frequenta,,2,0
+31084.0,UniABCD,2023-05-03,79,3,750.0,frequenta,,2,0
+10815.0,UniABCD,2022-01-12,173,3,834.84,não encontrado,,6,0
+31955.0,UniABCD,2023-05-03,79,3,884.49,nunca frequentou,,0,0
+8061.0,UniABCD,2022-01-11,203,3,801.84,formado,,1,0
+31128.0,UniABCD,2023-05-03,79,3,750.0,nunca frequentou,,0,0
+7382.0,UniABCD,2022-01-11,203,3,1212.75,formado,,1,0
+31962.0,UniABCD,2023-05-03,79,3,750.0,nunca frequentou,,0,0
+31138.0,UniABCD,2023-01-03,83,3,801.84,formado,,1,0
+31140.0,UniABCD,2023-05-03,79,3,690.0,nunca frequentou,,0,0
+11764.0,UniABCD,2023-01-03,83,3,859.08,em conclusão,,3,0
+31158.0,UniABCD,2023-05-03,79,3,710.0,nunca frequentou,,0,0
+31980.0,UniABCD,2023-05-03,79,3,750.0,frequenta,,2,0
+31981.0,UniABCD,2023-05-03,79,3,884.49,frequenta,,2,0
+31995.0,UniABCD,2023-05-03,79,3,840.54,nunca frequentou,,0,0
+32017.0,UniABCD,2023-05-03,79,3,840.54,frequenta,,2,0
+32018.0,UniABCD,2023-05-03,79,3,840.54,nunca frequentou,,0,0
+12032.0,UniABCD,2023-05-03,79,3,859.08,frequenta,,2,0
+8384.0,UniABCD,2022-01-11,203,3,758.88,formado,,1,0
+32034.0,UniABCD,2023-05-03,79,3,750.0,frequenta,,2,0
+7798.0,UniABCD,2023-05-03,79,3,839.79,nunca frequentou,,0,0
+32037.0,UniABCD,2023-05-03,79,3,884.49,nunca frequentou,,0,0
+9228.0,UniABCD,2022-01-11,203,3,904.8,concluiu todas disciplinas,,4,0
+9919.0,UniABCD,2023-05-03,79,3,820.56,frequenta,,2,0
+32059.0,UniABCD,2023-05-03,79,3,750.0,frequenta,,2,0
+32062.0,UniABCD,2023-05-03,79,3,750.0,frequenta,,2,0
+32065.0,UniABCD,2023-05-03,79,3,840.54,frequenta,,2,0
+32067.0,UniABCD,2023-05-03,79,3,839.79,frequenta,,2,0
+32074.0,UniABCD,2023-05-03,79,3,884.49,nunca frequentou,,0,0
+32076.0,UniABCD,2023-05-03,79,3,710.0,nunca frequentou,,0,0
+32083.0,UniABCD,2023-05-03,79,3,855.19,nunca frequentou,,0,0
+32099.0,UniABCD,2023-05-03,79,3,690.0,frequenta,,2,0
+36560.0,UniABCD,2023-05-04,48,2,794.87,nunca frequentou,,0,0
+7759.0,UniABCD,2022-05-11,199,2,460.0,nunca frequentou,,0,0
+36572.0,UniABCD,2023-05-04,48,2,815.16,nunca frequentou,,0,0
+36573.0,UniABCD,2023-05-04,48,2,560.36,nunca frequentou,,0,0
+36574.0,UniABCD,2023-05-04,48,2,560.36,nunca frequentou,,0,0
+36580.0,UniABCD,2023-05-04,48,2,774.58,nunca frequentou,,0,0
+10280.0,UniABCD,2022-01-11,203,2,534.56,formado,,1,0
+36590.0,UniABCD,2023-05-04,48,2,450.0,nunca frequentou,,0,0
+8560.0,UniABCD,2022-05-11,199,2,455.5,nunca frequentou,,0,0
+36592.0,UniABCD,2023-05-04,48,2,500.0,nunca frequentou,,0,0
+8212.0,UniABCD,2022-05-11,199,2,559.86,nunca frequentou,,0,0
+36598.0,UniABCD,2023-05-04,48,2,560.36,nunca frequentou,,0,0
+36599.0,UniABCD,2023-05-04,48,2,560.36,frequenta,,2,0
+36608.0,UniABCD,2023-05-04,48,2,815.16,nunca frequentou,,0,0
+36610.0,UniABCD,2023-05-04,48,2,774.58,nunca frequentou,,0,0
+36617.0,UniABCD,2023-05-04,48,2,589.66,frequenta,,2,0
+18025.0,UniABCD,2023-01-01,142,2,536.08,formado,,1,0
+36622.0,UniABCD,2023-05-04,48,2,560.36,nunca frequentou,,0,0
+31870.0,UniABCD,2023-05-04,48,2,774.58,nunca frequentou,,0,0
+36626.0,UniABCD,2023-05-04,48,2,560.36,nunca frequentou,,0,0
+8795.0,UniABCD,2022-05-12,169,2,585.86,formado,,1,0
+36628.0,UniABCD,2023-05-04,48,2,589.66,nunca frequentou,,0,0
+36629.0,UniABCD,2023-05-04,48,2,560.36,nunca frequentou,,0,0
+36630.0,UniABCD,2023-05-04,48,2,815.16,nunca frequentou,,0,0
+21253.0,UniABCD,2023-05-02,107,2,589.16,nunca frequentou,,0,0
+36631.0,UniABCD,2023-05-04,48,2,815.16,nunca frequentou,,0,0
+8714.0,UniABCD,2022-01-11,203,2,616.66,nunca frequentou,,0,0
+36651.0,UniABCD,2023-05-04,48,2,503.16,nunca frequentou,,0,0
+31885.0,UniABCD,2023-05-04,48,2,560.36,nunca frequentou,,0,0
+31003.0,UniABCD,2023-05-04,48,2,560.36,nunca frequentou,,0,0
+36669.0,UniABCD,2023-05-04,48,2,815.16,nunca frequentou,,0,0
+36670.0,UniABCD,2023-05-04,48,2,500.0,nunca frequentou,,0,0
+8429.0,UniABCD,2022-01-11,203,2,585.3,nunca frequentou,,0,0
+36687.0,UniABCD,2023-05-04,48,2,560.36,nunca frequentou,,0,0
+36693.0,UniABCD,2023-05-04,48,2,774.58,nunca frequentou,,0,0
+9985.0,UniABCD,2022-05-11,199,2,559.86,nunca frequentou,,0,0
+31086.0,UniABCD,2023-05-04,48,2,560.36,nunca frequentou,,0,0
+36697.0,UniABCD,2023-05-04,48,2,560.36,nunca frequentou,,0,0
+36702.0,UniABCD,2023-05-04,48,2,503.16,nunca frequentou,,0,0
+36704.0,UniABCD,2023-05-04,48,2,524.7,frequenta,,2,0
+36709.0,UniABCD,2023-05-04,48,2,589.66,nunca frequentou,,0,0
+10032.0,UniABCD,2022-05-11,199,2,408.0,nunca frequentou,,0,0
+31958.0,UniABCD,2023-05-03,79,2,774.58,nunca frequentou,,0,0
+36722.0,UniABCD,2023-05-04,48,2,589.66,nunca frequentou,,0,0
+36723.0,UniABCD,2023-05-04,48,2,815.16,nunca frequentou,,0,0
+36725.0,UniABCD,2023-05-04,48,2,560.36,nunca frequentou,,0,0
+39127.0,UniABCD,2023-05-05,18,2,589.66,nunca frequentou,,0,0
+36737.0,UniABCD,2023-05-04,48,2,815.16,nunca frequentou,,0,0
+36740.0,UniABCD,2023-05-04,48,2,560.36,nunca frequentou,,0,0
+8437.0,UniABCD,2022-05-11,199,2,408.0,nunca frequentou,,0,0
+36747.0,UniABCD,2023-05-04,48,2,560.36,nunca frequentou,,0,0
+36749.0,UniABCD,2023-05-04,48,2,589.66,nunca frequentou,,0,0
+36752.0,UniABCD,2023-05-04,48,2,524.7,frequenta,,2,0
+36754.0,UniABCD,2023-05-04,48,2,450.0,nunca frequentou,,0,0
+36755.0,UniABCD,2023-05-04,48,2,550.94,nunca frequentou,,0,0
+36758.0,UniABCD,2023-05-04,48,2,560.36,nunca frequentou,,0,0
+36764.0,UniABCD,2023-05-04,48,2,815.16,nunca frequentou,,0,0
+36768.0,UniABCD,2022-12-16,158,2,400.0,nunca frequentou,,0,0
+36778.0,UniABCD,2023-01-04,52,2,589.66,frequenta,,2,0
+36781.0,UniABCD,2023-05-04,48,2,450.0,nunca frequentou,,0,0
+36784.0,UniABCD,2023-05-04,48,2,500.0,frequenta,,2,0
+36786.0,UniABCD,2023-05-04,48,2,560.36,nunca frequentou,,0,0
+36787.0,UniABCD,2023-05-04,48,2,460.0,nunca frequentou,,0,0
+36788.0,UniABCD,2023-05-04,48,2,450.0,nunca frequentou,,0,0
+36796.0,UniABCD,2023-05-04,48,2,589.66,nunca frequentou,,0,0
+9491.0,UniABCD,2022-01-11,203,2,534.56,formado,,1,0
+36799.0,UniABCD,2023-05-04,48,2,560.36,nunca frequentou,,0,0
+8118.0,UniABCD,2023-05-04,48,2,589.66,frequenta,,2,0
+36804.0,UniABCD,2023-01-04,52,2,603.2,frequenta,,2,0
+36812.0,UniABCD,2023-05-04,48,2,560.36,nunca frequentou,,0,0
+39379.0,UniABCD,2023-05-05,18,1,298.0,nunca frequentou,,0,0
+8506.0,UniABCD,2022-01-11,203,1,301.6,formado,,1,0
+39380.0,UniABCD,2023-05-05,18,1,280.18,nunca frequentou,,0,0
+39190.0,UniABCD,2023-05-05,18,1,294.83,nunca frequentou,,0,0
+9862.0,UniABCD,2022-01-11,203,1,258.5,frequenta,,2,0
+39156.0,UniABCD,2023-01-05,22,1,291.5,fazendo disciplinas pendentes,,5,0
+39283.0,UniABCD,2023-05-05,18,1,230.0,nunca frequentou,,0,0
+39139.0,UniABCD,2023-05-20,3,1,278.28,nunca frequentou,,0,0
+39383.0,UniABCD,2023-05-05,18,1,280.18,nunca frequentou,,0,0
+39137.0,UniABCD,2023-05-05,18,1,407.58,frequenta,,2,0
+39386.0,UniABCD,2023-05-05,18,1,387.29,nunca frequentou,,0,0
+21074.0,UniABCD,2023-02-14,98,1,278.28,formado,,1,0
+39151.0,UniABCD,2023-05-05,18,1,262.35,nunca frequentou,,0,0
+39382.0,UniABCD,2023-05-05,18,1,230.0,nunca frequentou,,0,0
+39388.0,UniABCD,2023-05-05,18,1,264.65,nunca frequentou,,0,0
+39229.0,UniABCD,2023-05-05,18,1,294.83,nunca frequentou,,0,0
+39110.0,UniABCD,2023-01-05,22,1,294.83,frequenta,,2,0
+10368.0,UniABCD,2022-01-11,203,1,267.28,formado,,1,0
+36609.0,UniABCD,2023-05-04,48,1,280.18,nunca frequentou,,0,0
+39392.0,UniABCD,2023-05-05,18,1,294.83,frequenta,,2,0
+39393.0,UniABCD,2023-05-05,18,1,280.18,nunca frequentou,,0,0
+39395.0,UniABCD,2023-05-05,18,1,264.65,nunca frequentou,,0,0
+36615.0,UniABCD,2023-05-04,48,1,280.18,nunca frequentou,,0,0
+39398.0,UniABCD,2023-05-05,18,1,280.18,nunca frequentou,,0,0
+39400.0,UniABCD,2023-05-05,18,1,387.29,frequenta,,2,0
+39402.0,UniABCD,2023-05-05,18,1,387.29,frequenta,,2,0
+39403.0,UniABCD,2023-05-05,18,1,264.65,nunca frequentou,,0,0
+39404.0,UniABCD,2023-05-05,18,1,280.18,nunca frequentou,,0,0
+39405.0,UniABCD,2023-05-05,18,1,280.18,nunca frequentou,,0,0
+39481.0,UniABCD,2023-05-05,18,1,278.28,nunca frequentou,,0,0
+39117.0,UniABCD,2023-01-05,22,1,258.5,nunca frequentou,,0,0
+39406.0,UniABCD,2023-05-05,18,1,292.93,nunca frequentou,,0,0
+39407.0,UniABCD,2023-05-05,18,1,280.18,nunca frequentou,,0,0
+8050.0,UniABCD,2022-01-11,203,1,267.28,formado,,1,0
+39409.0,UniABCD,2023-05-05,18,1,280.18,nunca frequentou,,0,0
+39158.0,UniABCD,2023-01-05,22,1,268.04,em conclusão,,3,0
+39125.0,UniABCD,2023-05-05,18,1,230.0,frequenta,,2,0
+36656.0,UniABCD,2023-05-04,48,1,280.18,nunca frequentou,,0,0
+39418.0,UniABCD,2023-05-05,18,1,280.18,nunca frequentou,,0,0
+18036.0,UniABCD,2023-09-01,134,1,278.28,nunca frequentou,,0,0
+39415.0,UniABCD,2023-05-05,18,1,230.0,nunca frequentou,,0,0
+21255.0,UniABCD,2023-09-02,103,1,292.93,nunca frequentou,,0,0
+39417.0,UniABCD,2023-05-05,18,1,264.65,nunca frequentou,,0,0
+36671.0,UniABCD,2023-05-04,48,1,275.47,nunca frequentou,,0,0
+39202.0,UniABCD,2023-05-05,18,1,294.83,nunca frequentou,,0,0
+36682.0,UniABCD,2023-05-04,48,1,280.18,nunca frequentou,,0,0
+21165.0,UniABCD,2023-05-02,107,1,262.11,nunca frequentou,,0,0
+39102.0,UniABCD,2023-05-05,18,1,280.18,nunca frequentou,,0,0
+39433.0,UniABCD,2023-05-05,18,1,230.0,nunca frequentou,,0,0
+39425.0,UniABCD,2023-05-05,18,1,230.0,nunca frequentou,,0,0
+36691.0,UniABCD,2023-01-04,52,1,294.83,frequenta,,2,0
+39426.0,UniABCD,2023-05-05,18,1,387.29,nunca frequentou,,0,0
+39427.0,UniABCD,2023-05-05,18,1,280.18,nunca frequentou,,0,0
+39178.0,UniABCD,2023-05-05,18,1,280.18,frequenta,,2,0
+36694.0,UniABCD,2023-05-04,48,1,280.18,nunca frequentou,,0,0
+39438.0,UniABCD,2023-05-05,18,1,298.0,nunca frequentou,,0,0
+39429.0,UniABCD,2023-05-05,18,1,280.18,nunca frequentou,,0,0
+39431.0,UniABCD,2023-05-05,18,1,230.0,nunca frequentou,,0,0
+39432.0,UniABCD,2023-05-05,18,1,230.0,nunca frequentou,,0,0
+39434.0,UniABCD,2023-05-05,18,1,294.83,frequenta,,2,0
+39435.0,UniABCD,2023-05-05,18,1,264.65,nunca frequentou,,0,0
+39301.0,UniABCD,2023-05-05,18,1,294.83,frequenta,,2,0
+39437.0,UniABCD,2023-05-05,18,1,280.18,nunca frequentou,,0,0
+39244.0,UniABCD,2023-05-05,18,1,294.83,nunca frequentou,,0,0
+39114.0,UniABCD,2023-05-05,18,1,262.35,nunca frequentou,,0,0
+39115.0,UniABCD,2023-05-05,18,1,262.35,nunca frequentou,,0,0
+39672.0,UniABCD,2023-05-05,18,1,280.18,frequenta,,2,0
+7719.0,UniABCD,2023-01-05,22,1,294.83,frequenta,,2,0
+31953.0,UniABCD,2023-05-03,79,1,280.18,nunca frequentou,,0,0
+39146.0,UniABCD,2023-05-05,18,1,407.58,nunca frequentou,,0,0
+39200.0,UniABCD,2023-05-05,18,1,294.83,nunca frequentou,,0,0
+36721.0,UniABCD,2023-05-04,48,1,280.18,nunca frequentou,,0,0
+39132.0,UniABCD,2023-05-05,18,1,250.0,nunca frequentou,,0,0
+8642.0,UniABCD,2022-01-11,203,1,258.5,nunca frequentou,,0,0
+39445.0,UniABCD,2023-05-05,18,1,280.18,nunca frequentou,,0,0
+39103.0,UniABCD,2023-05-05,18,1,280.18,nunca frequentou,,0,0
+39238.0,UniABCD,2023-05-05,18,1,294.83,nunca frequentou,,0,0
+39111.0,UniABCD,2023-01-05,22,1,258.5,nunca frequentou,,0,0
+39182.0,UniABCD,2023-05-05,18,1,280.18,nunca frequentou,,0,0
+39164.0,UniABCD,2023-05-05,18,1,280.18,nunca frequentou,,0,0
+39662.0,UniABCD,2023-05-05,18,1,280.18,frequenta,,2,0
+39448.0,UniABCD,2023-05-05,18,1,298.0,frequenta,,2,0
+39099.0,UniABCD,2023-01-05,22,1,230.0,nunca frequentou,,0,0
+39207.0,UniABCD,2023-05-05,18,1,280.18,frequenta,,2,0
+39170.0,UniABCD,2023-05-05,18,1,280.18,nunca frequentou,,0,0
+39454.0,UniABCD,2023-05-05,18,1,251.58,nunca frequentou,,0,0
+21152.0,UniABCD,2023-05-02,107,1,294.58,nunca frequentou,,0,0
+39455.0,UniABCD,2023-05-05,18,1,264.65,nunca frequentou,,0,0
+39671.0,UniABCD,2023-05-05,18,1,294.83,frequenta,,2,0
+39458.0,UniABCD,2023-05-05,18,1,264.65,nunca frequentou,,0,0
+7601.0,UniABCD,2022-01-11,203,1,258.5,frequenta,,2,0
+10580.0,UniABCD,2022-01-11,203,1,267.28,formado,,1,0
+39461.0,UniABCD,2023-05-05,18,1,294.83,nunca frequentou,,0,0
+39007.0,UniABCD,2023-05-05,18,1,251.58,frequenta,,2,0
+39224.0,UniABCD,2023-05-05,18,1,294.83,nunca frequentou,,0,0
+39466.0,UniABCD,2023-05-05,18,1,294.83,frequenta,,2,0
+39317.0,UniABCD,2023-05-05,18,1,294.83,frequenta,,2,0
+39088.0,UniABCD,2023-05-05,18,1,387.29,nunca frequentou,,0,0
+39230.0,UniABCD,2023-05-05,18,1,294.83,nunca frequentou,,0,0
+39470.0,UniABCD,2023-05-05,18,1,298.0,nunca frequentou,,0,0
+39123.0,UniABCD,2023-05-05,18,1,230.0,nunca frequentou,,0,0
+39121.0,UniABCD,2023-05-05,18,1,280.18,frequenta,,2,0
+39473.0,UniABCD,2023-05-05,18,1,280.18,frequenta,,2,0
+7712.0,UniABCD,2022-01-11,203,1,267.28,formado,,1,0
+8079.0,UniABCD,2022-01-11,203,1,267.28,formado,,1,0
+39198.0,UniABCD,2023-05-05,18,1,294.83,frequenta,,2,0
+7706.0,UniABCD,2022-05-11,199,1,294.58,nunca frequentou,,0,0
+39247.0,UniABCD,2023-05-05,18,1,294.83,frequenta,,2,0
+39477.0,UniABCD,2023-05-05,18,1,292.93,nunca frequentou,,0,0
+39199.0,UniABCD,2023-05-05,18,1,294.83,nunca frequentou,,0,0
+39242.0,UniABCD,2023-05-05,18,1,294.83,nunca frequentou,,0,0
+39479.0,UniABCD,2023-05-05,18,1,298.0,nunca frequentou,,0,0
+39235.0,UniABCD,2023-05-05,18,1,294.83,nunca frequentou,,0,0
+39246.0,UniABCD,2023-05-05,18,0,294.83,ultimo modulo cursado em 2023,2023-05-16,7,0
+36649.0,UniABCD,2023-01-04,52,0,583.0,ultimo modulo cursado ate 2022,2019-06-24,7,0
+11297.0,UniABCD,2022-01-11,203,11,3210.92,ultimo modulo cursado ate 2022,2022-08-26,7,1
+12206.0,UniABCD,2022-01-12,173,9,2669.16,ultimo modulo cursado ate 2022,2022-01-11,7,1
+7442.0,UniABCD,2022-01-11,203,9,2714.4,ultimo modulo cursado ate 2022,2022-01-11,7,1
+11971.0,UniABCD,2022-01-11,203,8,2846.52,ultimo modulo cursado ate 2022,2022-02-08,7,1
+8471.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-08-30,7,1
+10242.0,UniABCD,2022-05-11,199,7,1610.0,ultimo modulo cursado ate 2022,2022-09-26,7,1
+8510.0,UniABCD,2022-05-11,199,7,3500.92,ultimo modulo cursado em 2023,2023-01-30,7,1
+7796.0,UniABCD,2022-05-11,199,7,2524.06,ultimo modulo cursado ate 2022,2022-11-16,7,1
+9004.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado em 2023,2023-04-20,7,1
+10587.0,UniABCD,2022-01-11,203,7,1870.96,ultimo modulo cursado ate 2022,2022-05-12,7,1
+9534.0,UniABCD,2022-05-11,199,7,1820.0,ultimo modulo cursado ate 2022,2022-10-28,7,1
+8077.0,UniABCD,2022-05-11,199,7,2062.06,ultimo modulo cursado em 2023,2023-04-27,7,1
+8483.0,UniABCD,2022-05-11,199,7,2711.03,ultimo modulo cursado ate 2022,2022-01-11,7,1
+9724.0,UniABCD,2022-01-11,203,7,2591.68,ultimo modulo cursado falta estagio,2022-04-07,8,1
+9288.0,UniABCD,2022-01-11,203,7,1876.28,ultimo modulo cursado ate 2022,2022-04-10,7,1
+8369.0,UniABCD,2022-05-11,199,7,2019.86,ultimo modulo cursado ate 2022,2022-11-10,7,1
+8096.0,UniABCD,2022-01-11,203,7,2010.26,ultimo modulo cursado em 2023,2023-11-04,7,1
+10227.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado ate 2022,2022-04-11,7,1
+7671.0,UniABCD,2022-01-11,203,7,1876.28,ultimo modulo cursado falta estagio,2023-09-03,8,1
+9001.0,UniABCD,2022-05-11,199,7,1914.64,ultimo modulo cursado ate 2022,2022-06-10,7,1
+8344.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado em 2023,2023-03-31,7,1
+8123.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado ate 2022,2022-04-10,7,1
+10481.0,UniABCD,2022-05-11,199,7,1820.0,ultimo modulo cursado em 2023,2023-03-31,7,1
+7854.0,UniABCD,2022-05-11,199,7,1914.64,ultimo modulo cursado em 2023,2023-02-03,7,1
+7994.0,UniABCD,2022-05-11,199,7,2062.06,ultimo modulo cursado ate 2022,2022-06-10,7,1
+7850.0,UniABCD,2022-05-11,199,7,1959.51,ultimo modulo cursado falta estagio,2022-11-16,8,1
+8217.0,UniABCD,2022-01-11,203,7,1853.25,ultimo modulo cursado ate 2022,2022-10-08,7,1
+9861.0,UniABCD,2022-01-11,203,7,2710.75,ultimo modulo cursado falta estagio,2023-02-13,8,1
+9670.0,UniABCD,2022-01-11,203,7,2460.99,ultimo modulo cursado ate 2022,2022-08-31,7,1
+8846.0,UniABCD,2022-01-11,203,7,1876.28,ultimo modulo cursado falta estagio,2023-11-05,8,1
+9890.0,UniABCD,2022-01-11,203,7,1870.96,ultimo modulo cursado falta estagio,2022-06-13,8,1
+8304.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado ate 2022,2022-09-29,7,1
+10303.0,UniABCD,2022-05-11,199,7,2062.06,ultimo modulo cursado ate 2022,2022-11-28,7,1
+8816.0,UniABCD,2022-01-11,203,7,1876.28,ultimo modulo cursado ate 2022,2022-11-21,7,1
+9129.0,UniABCD,2022-05-11,199,7,1518.0,ultimo modulo cursado ate 2022,2022-10-18,7,1
+7627.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado falta estagio,2021-03-08,8,1
+9341.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado ate 2022,2022-10-11,7,1
+7667.0,UniABCD,2022-05-11,199,7,1861.51,ultimo modulo cursado ate 2022,2022-09-30,7,1
+10070.0,UniABCD,2022-01-11,203,7,2040.5,ultimo modulo cursado ate 2022,2022-11-30,7,1
+16906.0,UniABCD,2023-05-01,138,7,1959.51,ultimo modulo cursado ate 2022,2022-10-21,7,1
+8654.0,UniABCD,2022-05-11,199,7,2524.06,ultimo modulo cursado ate 2022,2022-10-27,7,1
+9072.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado em 2023,2023-07-02,7,1
+8681.0,UniABCD,2022-01-11,203,7,1870.96,ultimo modulo cursado falta estagio,2022-10-27,8,1
+10208.0,UniABCD,2022-01-11,203,7,2128.91,ultimo modulo cursado ate 2022,2022-09-26,7,1
+10232.0,UniABCD,2022-01-11,203,7,2792.65,ultimo modulo cursado falta estagio,2023-11-05,8,1
+9490.0,UniABCD,2022-01-11,203,7,2710.75,ultimo modulo cursado falta estagio,2023-02-13,8,1
+8114.0,UniABCD,2022-05-11,199,7,1876.8,ultimo modulo cursado em 2023,2023-01-30,7,1
+10186.0,UniABCD,2022-01-11,203,7,2010.26,ultimo modulo cursado ate 2022,2022-10-27,7,1
+10573.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado falta estagio,2021-12-07,8,1
+10559.0,UniABCD,2022-01-11,203,7,1937.53,ultimo modulo cursado ate 2022,2022-09-29,7,1
+9052.0,UniABCD,2022-01-11,203,7,2004.52,solicitou retorno e nao frequentou,2022-08-29,10,1
+9394.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado ate 2022,2022-07-26,7,1
+8671.0,UniABCD,2022-01-11,203,7,2792.65,ultimo modulo cursado ate 2022,2022-10-08,7,1
+10287.0,UniABCD,2022-05-11,199,7,1914.64,ultimo modulo cursado ate 2022,2022-12-08,7,1
+8717.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-11-23,7,1
+10385.0,UniABCD,2022-05-11,199,7,2062.06,ultimo modulo cursado em 2023,2023-01-26,7,1
+8140.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado ate 2022,2022-09-28,7,1
+9082.0,UniABCD,2022-05-11,199,7,1959.51,ultimo modulo cursado ate 2022,2022-12-15,7,1
+7936.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado em 2023,2023-03-31,7,1
+8154.0,UniABCD,2022-05-11,199,7,1959.51,ultimo modulo cursado ate 2022,2022-12-13,7,1
+7565.0,UniABCD,2022-01-11,203,7,2117.36,ultimo modulo cursado ate 2022,2022-09-20,7,1
+9445.0,UniABCD,2022-01-11,203,7,1870.96,ultimo modulo cursado ate 2022,2022-07-29,7,1
+8086.0,UniABCD,2022-05-11,199,7,2853.06,ultimo modulo cursado ate 2022,2022-09-20,7,1
+7889.0,UniABCD,2022-01-11,203,7,2591.68,ultimo modulo cursado ate 2022,2022-08-24,7,1
+9787.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado em 2023,2023-07-04,7,1
+9807.0,UniABCD,2022-05-11,199,7,1914.64,ultimo modulo cursado ate 2022,2022-08-24,7,1
+8979.0,UniABCD,2022-05-11,199,7,2062.06,ultimo modulo cursado ate 2022,2022-06-10,7,1
+8163.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado ate 2022,2022-08-29,7,1
+9363.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado ate 2022,2022-06-10,7,1
+10310.0,UniABCD,2022-01-11,203,7,1870.96,ultimo modulo cursado falta estagio,2023-03-14,8,1
+7948.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-08-18,7,1
+9573.0,UniABCD,2022-01-11,203,7,2666.65,ultimo modulo cursado ate 2022,2022-02-06,7,1
+9504.0,UniABCD,2022-01-11,203,7,2021.04,ultimo modulo cursado falta estagio,2023-10-03,8,1
+8899.0,UniABCD,2022-01-11,203,7,1870.96,ultimo modulo cursado ate 2022,2022-04-13,7,1
+8733.0,UniABCD,2022-05-11,199,7,2062.06,ultimo modulo cursado em 2023,2023-03-14,7,1
+9804.0,UniABCD,2022-01-11,203,7,2710.75,ultimo modulo cursado falta estagio,2022-08-16,8,1
+7647.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-10-13,7,1
+9631.0,UniABCD,2022-05-11,199,7,1959.51,ultimo modulo cursado ate 2022,2022-10-28,7,1
+9924.0,UniABCD,2022-01-11,203,7,1876.28,ultimo modulo cursado ate 2022,2022-09-08,7,1
+10259.0,UniABCD,2022-05-11,199,7,1959.51,ultimo modulo cursado ate 2022,2022-12-15,7,1
+9506.0,UniABCD,2022-05-11,199,7,2853.06,ultimo modulo cursado ate 2022,2022-12-13,7,1
+8132.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-10-20,7,1
+8953.0,UniABCD,2022-01-11,203,7,2787.75,ultimo modulo cursado ate 2022,2022-08-30,7,1
+9166.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado falta estagio,2023-05-25,8,1
+9965.0,UniABCD,2022-01-11,203,7,2010.26,ultimo modulo cursado ate 2022,2022-10-27,7,1
+10581.0,UniABCD,2022-01-11,203,7,1809.5,ultimo modulo cursado falta estagio,2022-11-18,8,1
+8770.0,UniABCD,2022-05-11,199,7,2063.81,ultimo modulo cursado ate 2022,2022-05-10,7,1
+7668.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado ate 2022,2022-10-28,7,1
+10549.0,UniABCD,2022-01-11,203,7,2792.65,ultimo modulo cursado ate 2022,2022-09-08,7,1
+9899.0,UniABCD,2022-01-11,203,7,1870.96,solicitou retorno e nao frequentou,2022-07-19,10,1
+8234.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado em 2023,2023-10-02,7,1
+10985.0,UniABCD,2022-05-11,199,7,1755.48,ultimo modulo cursado em 2023,2023-07-03,7,1
+8880.0,UniABCD,2022-05-11,199,7,2853.06,ultimo modulo cursado ate 2022,2022-09-20,7,1
+10040.0,UniABCD,2022-05-11,199,7,1428.0,ultimo modulo cursado em 2023,2023-01-27,7,1
+10372.0,UniABCD,2022-01-11,203,7,2117.36,ultimo modulo cursado em 2023,2023-02-02,7,1
+8995.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-01-08,7,1
+7972.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado ate 2022,2022-09-11,7,1
+9755.0,UniABCD,2022-01-11,203,7,2128.91,ultimo modulo cursado ate 2022,2022-09-26,7,1
+7415.0,UniABCD,2022-01-11,203,7,2792.65,ultimo modulo cursado ate 2022,2022-09-08,7,1
+8503.0,UniABCD,2022-01-11,203,7,2735.25,ultimo modulo cursado em 2023,2023-01-31,7,1
+7794.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-09-14,7,1
+7413.0,UniABCD,2022-05-11,199,7,2853.06,ultimo modulo cursado ate 2022,2022-12-13,7,1
+8562.0,UniABCD,2022-05-11,199,7,1914.64,ultimo modulo cursado ate 2022,2022-09-30,7,1
+8335.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado ate 2022,2022-09-21,7,1
+7624.0,UniABCD,2022-05-11,199,7,1750.0,ultimo modulo cursado ate 2022,2022-08-19,7,1
+8558.0,UniABCD,2022-05-11,199,7,2062.06,ultimo modulo cursado em 2023,2023-09-02,7,1
+8032.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado ate 2022,2021-11-10,7,1
+8456.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-10-20,7,1
+10175.0,UniABCD,2022-05-11,199,7,1959.51,ultimo modulo cursado ate 2022,2022-12-15,7,1
+7910.0,UniABCD,2022-01-11,203,7,1876.28,ultimo modulo cursado ate 2022,2022-06-10,7,1
+7714.0,UniABCD,2022-05-11,199,7,1861.51,ultimo modulo cursado ate 2022,2022-11-25,7,1
+9230.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-11-14,7,1
+7993.0,UniABCD,2022-05-11,199,7,1346.4,ultimo modulo cursado ate 2022,2022-12-15,7,1
+9642.0,UniABCD,2022-05-11,199,7,2062.06,ultimo modulo cursado ate 2022,2022-07-14,7,1
+8739.0,UniABCD,2022-05-11,199,7,2062.06,ultimo modulo cursado ate 2022,2022-11-28,7,1
+9013.0,UniABCD,2022-01-11,203,7,2462.6,ultimo modulo cursado ate 2022,2022-11-07,7,1
+8218.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-08-30,7,1
+7672.0,UniABCD,2022-05-11,199,7,2853.06,ultimo modulo cursado ate 2022,2022-10-27,7,1
+8026.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado em 2023,2023-02-02,7,1
+9991.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-01-08,7,1
+7552.0,UniABCD,2022-01-11,203,7,2010.26,ultimo modulo cursado ate 2022,2022-11-28,7,1
+8505.0,UniABCD,2022-01-11,203,7,2792.65,ultimo modulo cursado falta estagio,2023-10-01,8,1
+8160.0,UniABCD,2022-01-11,203,7,2666.65,ultimo modulo cursado ate 2022,2022-10-20,7,1
+9954.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-08-29,7,1
+9979.0,UniABCD,2022-05-11,199,7,2063.81,ultimo modulo cursado em 2023,2023-02-02,7,1
+9141.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado ate 2022,2022-11-28,7,1
+7543.0,UniABCD,2022-01-11,203,7,1809.5,ultimo modulo cursado em 2023,2023-03-03,7,1
+9479.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-07-14,7,1
+8349.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado ate 2022,2022-01-08,7,1
+9628.0,UniABCD,2022-01-11,203,7,2591.68,ultimo modulo cursado ate 2022,2022-03-08,7,1
+9030.0,UniABCD,2022-01-11,203,7,2158.31,ultimo modulo cursado ate 2022,2022-08-19,7,1
+10004.0,UniABCD,2022-05-11,199,7,2623.07,ultimo modulo cursado ate 2022,2022-11-23,7,1
+9011.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado ate 2022,2022-07-18,7,1
+9178.0,UniABCD,2022-05-11,199,7,1959.51,ultimo modulo cursado ate 2022,2022-12-15,7,1
+8512.0,UniABCD,2022-01-11,203,7,2792.65,ultimo modulo cursado ate 2022,2022-09-08,7,1
+9325.0,UniABCD,2022-01-11,203,7,1870.96,ultimo modulo cursado ate 2022,2022-08-08,7,1
+9254.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-08-23,7,1
+8625.0,UniABCD,2022-05-11,199,7,2062.06,ultimo modulo cursado ate 2022,2022-06-10,7,1
+7429.0,UniABCD,2022-01-11,203,7,1870.96,ultimo modulo cursado falta estagio,2022-08-09,8,1
+8729.0,UniABCD,2022-05-11,199,7,2062.06,ultimo modulo cursado ate 2022,2022-09-28,7,1
+9606.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado em 2023,2023-01-25,7,1
+10532.0,UniABCD,2022-05-11,199,7,1960.0,ultimo modulo cursado em 2023,2023-01-13,7,1
+10332.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado ate 2022,2022-08-15,7,1
+10294.0,UniABCD,2022-05-11,199,7,2062.06,ultimo modulo cursado em 2023,2023-04-27,7,1
+8721.0,UniABCD,2022-01-11,203,7,1870.96,ultimo modulo cursado ate 2022,2022-08-26,7,1
+9028.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-09-20,7,1
+9539.0,UniABCD,2022-05-11,199,7,1561.0,ultimo modulo cursado ate 2022,2022-11-10,7,1
+9058.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado em 2023,2023-04-01,7,1
+9060.0,UniABCD,2022-05-11,199,7,1820.0,ultimo modulo cursado em 2023,2023-02-03,7,1
+7592.0,UniABCD,2022-01-11,203,7,2010.26,ultimo modulo cursado ate 2022,2022-11-28,7,1
+7540.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-08-30,7,1
+8527.0,UniABCD,2022-05-11,199,7,2711.03,ultimo modulo cursado ate 2022,2022-09-12,7,1
+8837.0,UniABCD,2022-05-11,199,7,1961.26,ultimo modulo cursado em 2023,2023-04-05,7,1
+10136.0,UniABCD,2022-01-11,203,7,1870.96,ultimo modulo cursado ate 2022,2022-06-20,7,1
+10376.0,UniABCD,2022-05-11,199,7,2063.81,ultimo modulo cursado ate 2022,2022-05-10,7,1
+9707.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado ate 2022,2022-11-17,7,1
+10046.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado ate 2022,2022-09-16,7,1
+9402.0,UniABCD,2022-05-11,199,7,2062.06,ultimo modulo cursado ate 2022,2022-10-28,7,1
+10322.0,UniABCD,2022-01-11,203,7,2117.36,ultimo modulo cursado ate 2022,2022-06-07,7,1
+8783.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-07-27,7,1
+7648.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado ate 2022,2022-08-26,7,1
+7947.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado falta estagio,2022-08-15,8,1
+7523.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado ate 2022,2022-11-08,7,1
+8942.0,UniABCD,2022-01-11,203,7,2792.65,ultimo modulo cursado ate 2022,2022-10-08,7,1
+8450.0,UniABCD,2022-05-11,199,7,1761.06,ultimo modulo cursado ate 2022,2022-11-23,7,1
+8223.0,UniABCD,2022-05-11,199,7,1959.51,ultimo modulo cursado ate 2022,2022-12-15,7,1
+7905.0,UniABCD,2022-05-11,199,7,1959.51,ultimo modulo cursado ate 2022,2022-11-18,7,1
+8689.0,UniABCD,2022-01-11,203,7,1870.96,ultimo modulo cursado ate 2022,2022-09-26,7,1
+10539.0,UniABCD,2022-05-11,199,7,2853.06,ultimo modulo cursado em 2023,2023-10-01,7,1
+8537.0,UniABCD,2022-05-11,199,7,1610.0,ultimo modulo cursado falta estagio,2023-05-25,8,1
+8809.0,UniABCD,2022-01-11,203,7,1870.96,ultimo modulo cursado ate 2022,2022-08-30,7,1
+7822.0,UniABCD,2022-01-11,203,7,2460.99,ultimo modulo cursado falta estagio,2023-04-28,8,1
+7802.0,UniABCD,2022-01-11,203,7,1870.96,ultimo modulo cursado falta estagio,2023-02-13,8,1
+8401.0,UniABCD,2022-05-11,199,7,2711.03,ultimo modulo cursado ate 2022,2022-09-12,7,1
+9159.0,UniABCD,2022-01-11,203,7,2010.26,ultimo modulo cursado ate 2022,2022-10-27,7,1
+10336.0,UniABCD,2022-05-11,199,7,1959.51,ultimo modulo cursado ate 2022,2022-09-14,7,1
+7599.0,UniABCD,2022-05-11,199,7,1961.26,ultimo modulo cursado ate 2022,2022-11-10,7,1
+8749.0,UniABCD,2022-05-11,199,7,2062.06,ultimo modulo cursado ate 2022,2022-07-10,7,1
+10565.0,UniABCD,2022-01-11,203,7,2010.26,ultimo modulo cursado ate 2022,2022-10-26,7,1
+9654.0,UniABCD,2022-01-11,203,7,2807.0,ultimo modulo cursado falta estagio,2022-04-10,8,1
+9194.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-11-23,7,1
+10311.0,UniABCD,2022-05-11,199,7,2062.06,ultimo modulo cursado ate 2022,2022-09-28,7,1
+9940.0,UniABCD,2022-05-11,199,7,1959.51,ultimo modulo cursado ate 2022,2022-11-17,7,1
+9776.0,UniABCD,2022-05-11,199,7,1959.51,ultimo modulo cursado ate 2022,2022-10-18,7,1
+7790.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado em 2023,2023-03-01,7,1
+9891.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-09-21,7,1
+8366.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-09-14,7,1
+8544.0,UniABCD,2022-01-11,203,7,2021.04,ultimo modulo cursado falta estagio,2023-10-03,8,1
+9468.0,UniABCD,2022-01-11,203,7,1886.36,ultimo modulo cursado ate 2022,2022-10-18,7,1
+10366.0,UniABCD,2022-05-11,199,7,1428.0,ultimo modulo cursado ate 2022,2022-02-09,7,1
+10250.0,UniABCD,2022-01-11,203,7,2067.27,ultimo modulo cursado ate 2022,2022-09-26,7,1
+10463.0,UniABCD,2022-01-11,203,7,2710.75,ultimo modulo cursado ate 2022,2022-06-28,7,1
+9025.0,UniABCD,2022-01-11,203,7,1870.96,ultimo modulo cursado falta estagio,2022-05-08,8,1
+9279.0,UniABCD,2022-05-11,199,7,1959.51,ultimo modulo cursado ate 2022,2022-12-14,7,1
+7899.0,UniABCD,2022-05-11,199,7,2547.36,ultimo modulo cursado ate 2022,2022-11-22,7,1
+8295.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado ate 2022,2022-12-20,7,1
+8382.0,UniABCD,2022-05-11,199,7,1914.64,ultimo modulo cursado ate 2022,2022-11-10,7,1
+8300.0,UniABCD,2022-05-11,199,7,1428.0,ultimo modulo cursado ate 2022,2022-02-09,7,1
+8105.0,UniABCD,2022-05-11,199,7,1958.95,ultimo modulo cursado falta estagio,2022-11-21,8,1
+7517.0,UniABCD,2022-05-11,199,7,1960.0,ultimo modulo cursado ate 2022,2022-08-11,7,1
+7582.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-12-15,7,1
+7809.0,UniABCD,2022-01-11,203,7,1937.53,ultimo modulo cursado falta estagio,2022-08-29,8,1
+9300.0,UniABCD,2022-05-11,199,7,1761.06,ultimo modulo cursado ate 2022,2022-09-29,7,1
+7974.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-09-14,7,1
+8500.0,UniABCD,2022-05-11,199,7,1959.51,ultimo modulo cursado ate 2022,2022-12-16,7,1
+7951.0,UniABCD,2022-05-11,199,7,2062.06,ultimo modulo cursado ate 2022,2022-06-10,7,1
+8516.0,UniABCD,2022-01-11,203,7,1870.96,ultimo modulo cursado ate 2022,2022-01-09,7,1
+9770.0,UniABCD,2022-05-11,199,7,2711.03,ultimo modulo cursado ate 2022,2022-10-17,7,1
+8552.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado ate 2022,2022-06-07,7,1
+10033.0,UniABCD,2022-01-11,203,7,1809.5,ultimo modulo cursado ate 2022,2022-01-08,7,1
+10473.0,UniABCD,2022-01-11,203,7,2040.5,ultimo modulo cursado ate 2022,2022-04-27,7,1
+8507.0,UniABCD,2022-01-11,203,7,2792.65,ultimo modulo cursado em 2023,2023-10-03,7,1
+10318.0,UniABCD,2022-01-11,203,7,2792.65,ultimo modulo cursado ate 2022,2022-11-24,7,1
+7848.0,UniABCD,2022-05-11,199,7,1959.51,ultimo modulo cursado falta estagio,2022-11-18,8,1
+12124.0,UniABCD,2022-01-11,203,7,1870.96,ultimo modulo cursado ate 2022,2022-06-30,7,1
+10541.0,UniABCD,2022-01-11,203,7,2158.31,ultimo modulo cursado ate 2022,2022-08-19,7,1
+9653.0,UniABCD,2022-05-11,199,7,1959.51,ultimo modulo cursado ate 2022,2022-10-28,7,1
+8881.0,UniABCD,2022-01-11,203,7,1838.34,ultimo modulo cursado ate 2022,2022-10-28,7,1
+8911.0,UniABCD,2022-05-11,199,7,1914.64,ultimo modulo cursado ate 2022,2022-11-10,7,1
+7689.0,UniABCD,2022-01-11,203,7,1870.96,ultimo modulo cursado ate 2022,2022-07-29,7,1
+9264.0,UniABCD,2022-01-11,203,7,2128.91,ultimo modulo cursado ate 2022,2022-09-26,7,1
+7408.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-09-29,7,1
+8220.0,UniABCD,2022-01-11,203,7,2010.26,ultimo modulo cursado ate 2022,2022-11-28,7,1
+9385.0,UniABCD,2022-05-11,199,7,2547.36,ultimo modulo cursado ate 2022,2022-09-20,7,1
+8191.0,UniABCD,2022-05-11,199,7,2425.85,ultimo modulo cursado ate 2022,2022-11-08,7,1
+9477.0,UniABCD,2022-01-11,203,7,2010.26,ultimo modulo cursado ate 2022,2022-09-28,7,1
+9068.0,UniABCD,2022-01-11,203,7,1809.5,ultimo modulo cursado falta estagio,2022-11-21,8,1
+10341.0,UniABCD,2022-01-11,203,7,1806.0,ultimo modulo cursado falta estagio,2023-04-25,8,1
+10127.0,UniABCD,2022-05-11,199,7,1914.64,ultimo modulo cursado ate 2022,2022-01-11,7,1
+9972.0,UniABCD,2022-01-11,203,7,2117.36,ultimo modulo cursado falta estagio,2022-07-07,8,1
+8301.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado em 2023,2023-03-01,7,1
+7409.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado em 2023,2023-02-27,7,1
+8409.0,UniABCD,2022-01-11,203,7,2710.75,ultimo modulo cursado falta estagio,2022-09-11,8,1
+9769.0,UniABCD,2022-01-11,203,7,2111.2,ultimo modulo cursado em 2023,2023-03-01,7,1
+8221.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-07-10,7,1
+10093.0,UniABCD,2022-01-11,203,7,2792.65,ultimo modulo cursado falta estagio,2023-11-05,8,1
+9880.0,UniABCD,2022-01-11,203,7,1870.96,ultimo modulo cursado em 2023,2023-02-17,7,1
+8120.0,UniABCD,2022-05-11,199,7,2194.64,ultimo modulo cursado ate 2022,2022-11-10,7,1
+9934.0,UniABCD,2022-01-11,203,7,2792.65,ultimo modulo cursado em 2023,2023-11-04,7,1
+9681.0,UniABCD,2022-01-11,203,7,2117.36,ultimo modulo cursado falta estagio,2022-11-16,8,1
+8249.0,UniABCD,2022-01-11,203,7,1870.96,ultimo modulo cursado falta estagio,2022-08-08,8,1
+9508.0,UniABCD,2022-01-11,203,7,1876.28,ultimo modulo cursado ate 2022,2022-08-11,7,1
+8046.0,UniABCD,2022-05-11,199,7,3423.7,ultimo modulo cursado ate 2022,2022-09-20,7,1
+7504.0,UniABCD,2022-05-11,199,7,1820.0,ultimo modulo cursado ate 2022,2022-10-28,7,1
+7840.0,UniABCD,2022-01-11,203,7,2010.26,ultimo modulo cursado ate 2022,2022-11-28,7,1
+8415.0,UniABCD,2022-05-11,199,7,1914.64,ultimo modulo cursado ate 2022,2022-08-24,7,1
+7817.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-08-18,7,1
+10068.0,UniABCD,2022-01-11,203,7,2591.68,entrou em rescisao,2023-05-16,9,1
+8799.0,UniABCD,2022-01-11,203,7,1870.96,ultimo modulo cursado falta estagio,2022-05-07,8,1
+9223.0,UniABCD,2022-01-11,203,7,1870.96,ultimo modulo cursado ate 2022,2022-05-12,7,1
+8420.0,UniABCD,2022-05-11,199,7,2062.06,ultimo modulo cursado ate 2022,2022-06-10,7,1
+10162.0,UniABCD,2022-01-11,203,7,1870.96,ultimo modulo cursado ate 2022,2022-05-30,7,1
+8854.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-07-10,7,1
+9211.0,UniABCD,2022-01-11,203,7,2004.52,ultimo modulo cursado ate 2022,2022-08-09,7,1
+9048.0,UniABCD,2022-01-11,203,7,1870.96,ultimo modulo cursado falta estagio,2023-03-14,8,1
+7559.0,UniABCD,2022-05-11,199,7,1852.55,ultimo modulo cursado ate 2022,2022-09-29,7,1
+9726.0,UniABCD,2022-05-11,199,7,1959.51,ultimo modulo cursado ate 2022,2022-12-30,7,1
+7717.0,UniABCD,2022-01-11,203,6,1809.6,ultimo modulo cursado falta estagio,2022-01-09,8,1
+8161.0,UniABCD,2022-05-12,169,6,2323.74,ultimo modulo cursado ate 2022,2022-10-17,7,1
+12211.0,UniABCD,2022-01-12,173,6,1680.0,ultimo modulo cursado ate 2022,2022-08-09,7,1
+8700.0,UniABCD,2022-01-11,203,6,2520.78,ultimo modulo cursado falta estagio,2022-07-19,8,1
+8586.0,UniABCD,2022-01-11,203,6,1809.6,ultimo modulo cursado ate 2022,2022-07-14,7,1
+10192.0,UniABCD,2022-01-11,203,6,1603.68,ultimo modulo cursado falta estagio,2020-06-01,8,1
+13371.0,UniABCD,2022-05-12,169,6,1767.48,ultimo modulo cursado ate 2022,2022-11-29,7,1
+10551.0,UniABCD,2022-01-11,203,6,1814.88,ultimo modulo cursado falta estagio,2022-07-07,8,1
+10058.0,UniABCD,2022-01-11,203,6,1603.68,ultimo modulo cursado falta estagio,2022-11-07,8,1
+10074.0,UniABCD,2022-01-11,203,6,2236.5,ultimo modulo cursado ate 2022,2022-10-06,7,1
+13391.0,UniABCD,2022-05-12,169,6,2324.4,ultimo modulo cursado ate 2022,2022-11-25,7,1
+8793.0,UniABCD,2022-01-11,203,6,1603.68,ultimo modulo cursado falta estagio,2022-06-13,8,1
+13396.0,UniABCD,2022-05-12,169,6,1679.58,ultimo modulo cursado ate 2022,2022-11-29,7,1
+12219.0,UniABCD,2022-01-12,173,6,1824.78,ultimo modulo cursado falta estagio,2023-09-03,8,1
+13411.0,UniABCD,2022-05-12,169,6,1767.48,ultimo modulo cursado ate 2022,2022-11-17,7,1
+7430.0,UniABCD,2022-01-11,203,6,1809.6,ultimo modulo cursado falta estagio,2022-07-14,8,1
+10113.0,UniABCD,2022-01-11,203,6,1809.6,ultimo modulo cursado ate 2022,2022-09-22,7,1
+13419.0,UniABCD,2022-05-12,169,6,1679.58,ultimo modulo cursado em 2023,2023-03-01,7,1
+7451.0,UniABCD,2022-01-11,203,6,1603.68,ultimo modulo cursado falta estagio,2022-05-07,8,1
+12131.0,UniABCD,2022-05-12,169,6,1767.48,ultimo modulo cursado em 2023,2023-09-03,7,1
+7590.0,UniABCD,2022-01-11,203,6,1575.72,ultimo modulo cursado falta estagio,2022-08-29,8,1
+11216.0,UniABCD,2022-01-12,173,6,1603.68,ultimo modulo cursado falta estagio,2022-10-02,8,1
+8937.0,UniABCD,2022-01-11,203,6,1575.72,ultimo modulo cursado falta estagio,2022-08-22,8,1
+13438.0,UniABCD,2022-05-12,169,6,1767.48,ultimo modulo cursado em 2023,2023-02-15,7,1
+11403.0,UniABCD,2022-01-12,173,6,1619.22,ultimo modulo cursado falta estagio,2022-08-29,8,1
+13442.0,UniABCD,2022-05-12,169,6,1509.48,ultimo modulo cursado ate 2022,2022-11-25,7,1
+13497.0,UniABCD,2022-01-12,173,6,1809.6,ultimo modulo cursado ate 2022,2022-12-15,7,1
+13452.0,UniABCD,2022-01-12,173,6,1718.16,solicitou retorno e nao frequentou,2022-10-29,10,1
+12226.0,UniABCD,2022-01-12,173,6,1824.78,ultimo modulo cursado falta estagio,2023-09-03,8,1
+8193.0,UniABCD,2022-01-11,203,6,1660.74,ultimo modulo cursado falta estagio,2022-08-29,8,1
+8316.0,UniABCD,2022-01-11,203,6,2323.5,ultimo modulo cursado falta estagio,2022-08-16,8,1
+8227.0,UniABCD,2022-01-11,203,6,1809.6,ultimo modulo cursado ate 2022,2022-07-14,7,1
+7435.0,UniABCD,2022-01-12,173,6,1809.6,ultimo modulo cursado ate 2022,2022-11-28,7,1
+13471.0,UniABCD,2022-05-12,169,6,1679.58,ultimo modulo cursado em 2023,2023-04-17,7,1
+7678.0,UniABCD,2022-01-11,203,6,1575.72,ultimo modulo cursado falta estagio,2022-08-29,8,1
+9237.0,UniABCD,2022-01-11,203,6,1603.68,ultimo modulo cursado falta estagio,2022-05-07,8,1
+13488.0,UniABCD,2022-05-12,169,6,1767.48,ultimo modulo cursado ate 2022,2022-11-29,7,1
+13490.0,UniABCD,2022-01-12,173,6,1809.6,ultimo modulo cursado em 2023,2023-05-23,7,1
+13496.0,UniABCD,2022-01-12,173,6,1809.6,solicitou retorno e nao frequentou,2022-10-26,10,1
+8760.0,UniABCD,2022-01-11,203,6,1419.0,solicitou retorno e nao frequentou,2022-09-09,10,1
+11148.0,UniABCD,2022-05-12,169,6,1597.02,ultimo modulo cursado ate 2022,2022-12-12,7,1
+8455.0,UniABCD,2022-01-11,203,5,1457.5,ultimo modulo cursado falta estagio,2022-06-13,8,1
+16924.0,UniABCD,2023-05-01,138,5,1399.65,ultimo modulo cursado em 2023,2023-01-30,7,1
+8563.0,UniABCD,2022-01-11,203,5,1512.4,ultimo modulo cursado ate 2022,2022-07-07,7,1
+16922.0,UniABCD,2023-05-01,138,5,1490.0,ultimo modulo cursado em 2023,2023-04-26,7,1
+7473.0,UniABCD,2022-01-11,203,5,2100.65,ultimo modulo cursado falta estagio,2022-07-19,8,1
+18023.0,UniABCD,2023-05-01,138,5,1472.9,ultimo modulo cursado em 2023,2023-08-02,7,1
+7903.0,UniABCD,2022-01-11,203,5,1336.4,ultimo modulo cursado ate 2022,2022-06-13,7,1
+8260.0,UniABCD,2022-01-11,203,5,1340.2,ultimo modulo cursado ate 2022,2022-03-31,7,1
+16918.0,UniABCD,2023-05-01,138,5,1257.9,ultimo modulo cursado ate 2022,2022-11-25,7,1
+7692.0,UniABCD,2022-01-11,203,5,2100.65,ultimo modulo cursado falta estagio,2022-07-19,8,1
+9906.0,UniABCD,2022-01-11,203,5,1508.0,ultimo modulo cursado falta estagio,2022-06-13,8,1
+16921.0,UniABCD,2023-05-01,138,5,1250.0,ultimo modulo cursado ate 2022,2022-05-12,7,1
+9307.0,UniABCD,2022-01-11,203,5,1336.4,ultimo modulo cursado falta estagio,2022-05-19,8,1
+10397.0,UniABCD,2022-01-11,203,5,1340.2,ultimo modulo cursado falta estagio,2022-03-25,8,1
+18038.0,UniABCD,2023-01-01,142,5,1336.4,ultimo modulo cursado ate 2022,2021-07-16,7,1
+9772.0,UniABCD,2022-01-11,203,5,2125.3,ultimo modulo cursado ate 2022,2022-02-08,7,1
+9375.0,UniABCD,2022-01-11,203,5,1336.4,ultimo modulo cursado falta estagio,2022-09-30,8,1
+18053.0,UniABCD,2023-05-01,138,5,1472.9,ultimo modulo cursado em 2023,2023-08-02,7,1
+12015.0,UniABCD,2023-05-01,138,5,1400.9,ultimo modulo cursado ate 2022,2022-12-12,7,1
+8850.0,UniABCD,2022-01-11,203,5,1292.5,ultimo modulo cursado falta estagio,2022-05-08,8,1
+9432.0,UniABCD,2022-01-11,203,5,1520.65,ultimo modulo cursado falta estagio,2022-08-08,8,1
+16925.0,UniABCD,2023-05-01,138,5,1399.65,ultimo modulo cursado ate 2022,2022-11-29,7,1
+7657.0,UniABCD,2022-01-11,203,5,1336.4,ultimo modulo cursado falta estagio,2022-06-13,8,1
+8355.0,UniABCD,2022-01-11,203,5,1508.0,ultimo modulo cursado falta estagio,2022-03-18,8,1
+10560.0,UniABCD,2022-01-11,203,5,1508.0,ultimo modulo cursado falta estagio,2022-05-18,8,1
+16908.0,UniABCD,2023-05-01,138,5,1399.65,ultimo modulo cursado em 2023,2023-06-02,7,1
+8577.0,UniABCD,2022-01-11,203,5,1336.4,ultimo modulo cursado falta estagio,2022-06-13,8,1
+18079.0,UniABCD,2023-05-01,138,5,1281.1,ultimo modulo cursado em 2023,2023-03-31,7,1
+9705.0,UniABCD,2022-01-11,203,5,1457.5,ultimo modulo cursado falta estagio,2022-07-27,8,1
+10241.0,UniABCD,2022-01-11,203,5,1264.8,ultimo modulo cursado ate 2022,2022-07-07,7,1
+7615.0,UniABCD,2022-01-11,203,5,1512.4,ultimo modulo cursado ate 2022,2022-11-07,7,1
+8897.0,UniABCD,2022-01-11,203,5,1336.4,ultimo modulo cursado falta estagio,2021-11-23,8,1
+21076.0,UniABCD,2023-05-02,107,4,920.0,ultimo modulo cursado em 2023,2023-03-16,7,0
+9713.0,UniABCD,2022-01-11,203,4,1069.12,ultimo modulo cursado ate 2022,2022-10-10,7,0
+21286.0,UniABCD,2023-05-02,107,4,1120.72,ultimo modulo cursado em 2023,2023-08-03,7,0
+7606.0,UniABCD,2022-01-11,203,4,1072.16,ultimo modulo cursado falta estagio,2022-07-07,8,0
+21163.0,UniABCD,2023-05-02,107,4,1178.32,ultimo modulo cursado em 2023,2023-03-27,7,0
+9614.0,UniABCD,2022-05-11,199,4,1178.32,trancou,2022-07-04,13,0
+9108.0,UniABCD,2022-01-11,203,4,1480.96,entrou em rescisao,2022-04-10,9,0
+9551.0,UniABCD,2022-01-11,203,4,1145.44,ultimo modulo cursado ate 2022,2022-07-13,7,0
+8414.0,UniABCD,2022-01-11,203,4,1148.72,entrou em rescisao,2022-09-16,9,0
+9499.0,UniABCD,2022-01-11,203,4,1145.44,ultimo modulo cursado ate 2022,2022-02-18,7,0
+9926.0,UniABCD,2022-01-11,203,4,1107.16,ultimo modulo cursado falta estagio,2022-07-06,8,0
+21160.0,UniABCD,2023-05-02,107,4,1178.32,ultimo modulo cursado em 2023,2023-03-27,7,0
+8549.0,UniABCD,2022-01-11,203,4,1209.92,ultimo modulo cursado ate 2022,2022-08-26,7,0
+9136.0,UniABCD,2022-01-11,203,4,1206.4,ultimo modulo cursado falta estagio,2022-08-18,8,0
+21135.0,UniABCD,2023-05-02,107,4,1178.32,ultimo modulo cursado em 2023,2023-02-14,7,0
+21205.0,UniABCD,2023-05-02,107,4,1178.32,ultimo modulo cursado em 2023,2023-01-20,7,0
+21189.0,UniABCD,2023-05-02,107,4,1178.32,ultimo modulo cursado em 2023,2023-01-20,7,0
+7738.0,UniABCD,2022-05-11,199,4,1119.72,transferencia escolar,2022-04-11,12,0
+8385.0,UniABCD,2022-01-11,203,4,1069.12,solicitou retorno e nao frequentou,2022-06-05,10,0
+18102.0,UniABCD,2023-01-02,111,4,1540.0,ultimo modulo cursado falta estagio,2018-12-09,8,0
+8302.0,UniABCD,2022-01-11,203,4,1050.48,ultimo modulo cursado falta estagio,2022-07-07,8,0
+9366.0,UniABCD,2022-01-11,203,4,1050.48,ultimo modulo cursado falta estagio,2022-07-06,8,0
+9306.0,UniABCD,2022-01-11,203,4,1050.48,ultimo modulo cursado falta estagio,2022-07-06,8,0
+9003.0,UniABCD,2022-01-11,203,4,1206.4,ultimo modulo cursado ate 2022,2022-02-02,7,0
+21147.0,UniABCD,2023-05-02,107,4,1178.32,ultimo modulo cursado em 2023,2023-01-20,7,0
+8084.0,UniABCD,2022-01-11,203,4,1209.92,ultimo modulo cursado ate 2022,2022-01-08,7,0
+21149.0,UniABCD,2023-05-02,107,4,1119.72,entrou em rescisao,2023-05-23,9,0
+8900.0,UniABCD,2022-01-11,203,4,1209.92,ultimo modulo cursado ate 2022,2022-09-05,7,0
+8630.0,UniABCD,2022-01-11,203,4,1206.4,transferencia escolar,2023-02-01,12,0
+9986.0,UniABCD,2022-01-11,203,4,1148.72,expulso,2022-09-12,14,0
+9806.0,UniABCD,2022-01-11,203,4,1171.72,ultimo modulo cursado falta estagio,2022-11-23,8,0
+21188.0,UniABCD,2023-05-02,107,4,920.0,ultimo modulo cursado em 2023,2023-06-02,7,0
+9703.0,UniABCD,2022-01-11,203,4,1148.72,entrou em rescisao,2022-09-16,9,0
+7924.0,UniABCD,2022-01-11,203,4,1595.8,entrou em rescisao,2022-02-06,9,0
+8805.0,UniABCD,2022-01-11,203,4,1050.48,ultimo modulo cursado falta estagio,2022-07-07,8,0
+21208.0,UniABCD,2023-05-02,107,4,920.0,ultimo modulo cursado em 2023,2023-01-20,7,0
+10967.0,UniABCD,2022-01-11,203,4,1072.16,ultimo modulo cursado falta estagio,2022-07-07,8,0
+8324.0,UniABCD,2022-01-11,203,4,1209.92,ultimo modulo cursado falta estagio,2023-12-05,8,0
+10205.0,UniABCD,2022-01-11,203,4,1148.72,entrou em rescisao,2022-09-16,9,0
+21110.0,UniABCD,2023-05-02,107,4,920.0,ultimo modulo cursado em 2023,2023-06-02,7,0
+7622.0,UniABCD,2022-01-11,203,4,1206.4,ultimo modulo cursado falta estagio,2022-10-03,8,0
+8914.0,UniABCD,2022-01-11,203,4,1113.12,ultimo modulo cursado ate 2022,2022-09-28,7,0
+8802.0,UniABCD,2022-01-11,203,4,1148.72,entrou em rescisao,2022-09-16,9,0
+8566.0,UniABCD,2022-01-11,203,4,1209.92,ultimo modulo cursado ate 2022,2022-08-18,7,0
+21171.0,UniABCD,2023-05-02,107,4,1120.72,entrou em rescisao,2023-05-18,9,0
+21093.0,UniABCD,2023-05-02,107,4,1119.72,ultimo modulo cursado em 2023,2023-01-20,7,0
+11926.0,UniABCD,2022-01-11,203,4,1406.28,trancou,2022-07-04,13,0
+9738.0,UniABCD,2022-01-11,203,4,1166.0,trancou,2022-06-06,13,0
+21068.0,UniABCD,2023-05-02,107,4,1022.23,ultimo modulo cursado em 2023,2023-03-02,7,0
+21129.0,UniABCD,2023-05-02,107,4,1178.32,ultimo modulo cursado em 2023,2023-01-20,7,0
+8413.0,UniABCD,2022-01-11,203,4,1069.12,ultimo modulo cursado falta estagio,2022-04-19,8,0
+21094.0,UniABCD,2023-05-02,107,4,1178.32,ultimo modulo cursado em 2023,2023-02-16,7,0
+21267.0,UniABCD,2023-05-02,107,4,1178.32,ultimo modulo cursado em 2023,2023-01-20,7,0
+7999.0,UniABCD,2022-01-11,203,4,1166.0,transferencia escolar,2022-10-31,12,0
+7614.0,UniABCD,2022-01-11,203,4,1480.96,entrou em rescisao,2022-05-04,9,0
+11081.0,UniABCD,2022-01-11,203,4,1206.4,entrou em rescisao,2021-01-03,9,0
+8980.0,UniABCD,2022-01-11,203,4,1072.16,ultimo modulo cursado falta estagio,2022-07-07,8,0
+9263.0,UniABCD,2022-01-11,203,4,1480.96,entrou em rescisao,2022-09-16,9,0
+7487.0,UniABCD,2022-01-11,203,4,1206.4,ultimo modulo cursado ate 2022,2022-07-25,7,0
+9464.0,UniABCD,2022-01-11,203,4,1209.92,ultimo modulo cursado ate 2022,2022-09-21,7,0
+9856.0,UniABCD,2022-01-11,203,4,1148.72,entrou em rescisao,2022-09-16,9,0
+9220.0,UniABCD,2022-01-11,203,4,1209.92,ultimo modulo cursado ate 2022,2022-06-07,7,0
+8162.0,UniABCD,2022-01-11,203,4,1166.0,ultimo modulo cursado falta estagio,2020-09-01,8,0
+9177.0,UniABCD,2022-01-11,203,4,1680.52,entrou em rescisao,2022-09-16,9,0
+7915.0,UniABCD,2022-01-11,203,4,1145.44,ultimo modulo cursado ate 2022,2022-11-28,7,0
+9407.0,UniABCD,2022-01-11,203,4,1034.0,ultimo modulo cursado falta estagio,2022-08-07,8,0
+8405.0,UniABCD,2022-01-11,203,4,1480.96,transferencia escolar,2023-02-02,12,0
+9535.0,UniABCD,2022-01-11,203,4,1166.0,expulso,2023-06-03,14,0
+9097.0,UniABCD,2022-01-11,203,4,1209.92,ultimo modulo cursado ate 2022,2022-04-07,7,0
+21096.0,UniABCD,2023-05-02,107,4,1119.72,ultimo modulo cursado em 2023,2023-01-17,7,0
+9454.0,UniABCD,2022-01-11,203,4,1072.16,ultimo modulo cursado ate 2022,2022-10-26,7,0
+9721.0,UniABCD,2022-01-11,203,4,1680.52,entrou em rescisao,2022-09-16,9,0
+21099.0,UniABCD,2023-05-02,107,4,1178.32,ultimo modulo cursado em 2023,2023-01-20,7,0
+9677.0,UniABCD,2022-01-11,203,3,787.86,ultimo modulo cursado falta estagio,2022-07-06,8,0
+10527.0,UniABCD,2022-01-11,203,3,819.39,ultimo modulo cursado ate 2022,2022-04-05,7,0
+8051.0,UniABCD,2023-01-03,83,3,801.84,ultimo modulo cursado ate 2022,2022-08-08,7,0
+30844.0,UniABCD,2023-05-03,79,3,840.54,ultimo modulo cursado em 2023,2023-02-16,7,0
+30858.0,UniABCD,2023-05-03,79,3,840.54,ultimo modulo cursado em 2023,2023-03-16,7,0
+30875.0,UniABCD,2023-05-03,79,3,884.49,ultimo modulo cursado em 2023,2023-04-25,7,0
+30878.0,UniABCD,2023-05-03,79,3,712.5,ultimo modulo cursado em 2023,2023-02-16,7,0
+8274.0,UniABCD,2022-01-11,203,3,904.8,ultimo modulo cursado falta estagio,2022-05-08,8,0
+7414.0,UniABCD,2022-01-11,203,3,878.79,ultimo modulo cursado falta estagio,2022-10-10,8,0
+13390.0,UniABCD,2022-05-12,169,3,839.79,ultimo modulo cursado em 2023,2023-09-03,7,0
+7894.0,UniABCD,2022-01-11,203,3,787.86,ultimo modulo cursado falta estagio,2022-07-06,8,0
+10022.0,UniABCD,2022-01-11,203,3,1020.15,ultimo modulo cursado falta estagio,2022-08-29,8,0
+30919.0,UniABCD,2023-05-03,79,3,884.49,ultimo modulo cursado em 2023,2023-02-16,7,0
+30929.0,UniABCD,2023-05-03,79,3,894.0,ultimo modulo cursado em 2023,2023-03-05,7,0
+30959.0,UniABCD,2023-05-03,79,3,750.0,ultimo modulo cursado em 2023,2023-08-03,7,0
+30961.0,UniABCD,2023-05-03,79,3,840.54,ultimo modulo cursado em 2023,2023-03-16,7,0
+31898.0,UniABCD,2023-01-03,83,3,894.0,solicitou retorno e nao frequentou,2023-01-30,10,0
+31037.0,UniABCD,2023-05-03,79,3,840.54,ultimo modulo cursado em 2023,2023-03-16,7,0
+31043.0,UniABCD,2023-05-03,79,3,884.49,ultimo modulo cursado em 2023,2023-02-16,7,0
+31943.0,UniABCD,2023-05-03,79,3,690.0,ultimo modulo cursado em 2023,2023-03-16,7,0
+31081.0,UniABCD,2023-05-03,79,3,840.54,ultimo modulo cursado em 2023,2023-04-04,7,0
+31108.0,UniABCD,2023-05-03,79,3,840.54,ultimo modulo cursado em 2023,2023-04-04,7,0
+31110.0,UniABCD,2023-05-03,79,3,840.54,ultimo modulo cursado em 2023,2023-02-16,7,0
+7862.0,UniABCD,2023-01-03,83,3,801.84,ultimo modulo cursado ate 2022,2022-11-05,7,0
+31135.0,UniABCD,2023-05-03,79,3,840.54,ultimo modulo cursado em 2023,2023-03-16,7,0
+9155.0,UniABCD,2022-01-11,203,3,830.37,ultimo modulo cursado falta estagio,2022-07-06,8,0
+31144.0,UniABCD,2023-05-03,79,3,884.49,ultimo modulo cursado em 2023,2023-02-16,7,0
+11344.0,UniABCD,2023-05-03,79,3,754.74,ultimo modulo cursado em 2023,2023-08-03,7,0
+8095.0,UniABCD,2022-01-11,203,3,801.84,ultimo modulo cursado ate 2022,2022-03-22,7,0
+31988.0,UniABCD,2023-05-03,79,3,750.0,ultimo modulo cursado em 2023,2023-02-16,7,0
+32004.0,UniABCD,2023-05-03,79,3,884.49,ultimo modulo cursado em 2023,2023-02-16,7,0
+32023.0,UniABCD,2023-05-03,79,3,750.0,ultimo modulo cursado em 2023,2023-02-16,7,0
+32025.0,UniABCD,2023-05-03,79,3,840.54,ultimo modulo cursado em 2023,2023-03-16,7,0
+9865.0,UniABCD,2022-01-11,203,3,878.79,ultimo modulo cursado falta estagio,2022-10-10,8,0
+8347.0,UniABCD,2022-01-11,203,3,874.5,ultimo modulo cursado falta estagio,2021-06-29,8,0
+8581.0,UniABCD,2022-01-11,203,3,1161.75,ultimo modulo cursado falta estagio,2022-03-05,8,0
+32053.0,UniABCD,2023-05-03,79,3,884.49,ultimo modulo cursado em 2023,2023-02-16,7,0
+32057.0,UniABCD,2023-05-03,79,3,750.0,ultimo modulo cursado em 2023,2023-02-16,7,0
+32060.0,UniABCD,2023-05-03,79,3,884.49,ultimo modulo cursado em 2023,2023-04-25,7,0
+32061.0,UniABCD,2023-05-03,79,3,884.49,ultimo modulo cursado em 2023,2023-03-16,7,0
+9729.0,UniABCD,2023-01-03,83,3,904.8,ultimo modulo cursado falta estagio,2022-04-22,8,0
+32073.0,UniABCD,2023-05-03,79,3,840.54,ultimo modulo cursado em 2023,2023-02-16,7,0
+32080.0,UniABCD,2023-05-03,79,3,750.0,ultimo modulo cursado em 2023,2023-02-16,7,0
+32085.0,UniABCD,2023-05-03,79,3,884.49,ultimo modulo cursado em 2023,2023-02-16,7,0
+8192.0,UniABCD,2023-01-03,83,3,874.5,ultimo modulo cursado falta estagio,2022-04-07,8,0
+32092.0,UniABCD,2023-05-03,79,3,840.54,ultimo modulo cursado em 2023,2023-02-16,7,0
+10135.0,UniABCD,2022-01-11,203,3,830.37,ultimo modulo cursado falta estagio,2022-07-06,8,0
+9044.0,UniABCD,2022-01-11,203,2,608.26,ultimo modulo cursado ate 2022,2022-02-08,7,0
+7776.0,UniABCD,2022-01-11,203,2,577.44,ultimo modulo cursado ate 2022,2022-10-18,7,0
+9131.0,UniABCD,2022-01-11,203,2,574.36,ultimo modulo cursado ate 2022,2022-08-18,7,0
+36569.0,UniABCD,2023-01-04,52,2,583.0,ultimo modulo cursado ate 2022,2020-07-05,7,0
+10244.0,UniABCD,2022-01-11,203,2,534.56,ultimo modulo cursado ate 2022,2022-11-11,7,0
+36578.0,UniABCD,2023-05-04,48,2,503.16,ultimo modulo cursado em 2023,2023-03-23,7,0
+8716.0,UniABCD,2022-01-11,203,2,608.26,ultimo modulo cursado ate 2022,2022-08-23,7,0
+9361.0,UniABCD,2022-01-11,203,2,724.88,ultimo modulo cursado ate 2022,2022-08-23,7,0
+36586.0,UniABCD,2023-01-04,52,2,604.96,ultimo modulo cursado ate 2022,2020-10-07,7,0
+7726.0,UniABCD,2022-05-11,199,2,559.86,ultimo modulo cursado ate 2022,2022-10-28,7,0
+8064.0,UniABCD,2022-01-11,203,2,534.56,ultimo modulo cursado ate 2022,2022-12-12,7,0
+8986.0,UniABCD,2022-01-11,203,2,572.72,ultimo modulo cursado ate 2022,2022-06-21,7,0
+9168.0,UniABCD,2022-01-11,203,2,542.88,ultimo modulo cursado ate 2022,2022-10-13,7,0
+8497.0,UniABCD,2022-05-11,199,2,408.0,ultimo modulo cursado ate 2022,2022-02-09,7,0
+31848.0,UniABCD,2023-05-04,48,2,503.16,ultimo modulo cursado em 2023,2023-03-16,7,0
+8652.0,UniABCD,2022-01-11,203,2,604.96,ultimo modulo cursado ate 2022,2022-09-21,7,0
+7696.0,UniABCD,2022-01-11,203,2,603.2,ultimo modulo cursado ate 2022,2022-10-13,7,0
+7441.0,UniABCD,2022-01-11,203,2,604.96,ultimo modulo cursado ate 2022,2022-05-10,7,0
+36614.0,UniABCD,2023-05-04,48,2,460.0,ultimo modulo cursado em 2023,2023-04-24,7,0
+36618.0,UniABCD,2023-01-04,52,2,583.0,ultimo modulo cursado ate 2022,2020-06-29,7,0
+7610.0,UniABCD,2022-01-11,203,2,531.24,ultimo modulo cursado ate 2022,2022-08-08,7,0
+31875.0,UniABCD,2023-05-04,48,2,589.66,ultimo modulo cursado em 2023,2023-03-15,7,0
+36634.0,UniABCD,2023-01-04,52,2,534.56,ultimo modulo cursado ate 2022,2019-09-04,7,0
+8640.0,UniABCD,2022-05-11,199,2,559.86,ultimo modulo cursado ate 2022,2022-10-28,7,0
+8649.0,UniABCD,2022-01-11,203,2,534.56,ultimo modulo cursado ate 2022,2022-07-28,7,0
+8056.0,UniABCD,2022-01-11,203,2,546.26,ultimo modulo cursado ate 2022,2022-07-28,7,0
+36637.0,UniABCD,2023-05-04,48,2,550.94,ultimo modulo cursado em 2023,2023-08-05,7,0
+9680.0,UniABCD,2022-01-11,203,2,534.56,ultimo modulo cursado ate 2022,2022-10-05,7,0
+36642.0,UniABCD,2023-05-04,48,2,560.36,ultimo modulo cursado em 2023,2023-05-16,7,0
+7746.0,UniABCD,2022-05-11,199,2,408.0,ultimo modulo cursado ate 2022,2022-05-10,7,0
+8538.0,UniABCD,2022-01-11,203,2,546.26,ultimo modulo cursado ate 2022,2022-02-09,7,0
+8311.0,UniABCD,2022-05-11,199,2,524.22,ultimo modulo cursado ate 2022,2022-11-30,7,0
+7904.0,UniABCD,2022-01-11,203,2,603.2,ultimo modulo cursado em 2023,2023-10-01,7,0
+10183.0,UniABCD,2022-01-11,203,2,536.08,ultimo modulo cursado ate 2022,2022-05-24,7,0
+9373.0,UniABCD,2022-01-11,203,2,517.0,ultimo modulo cursado ate 2022,2022-02-18,7,0
+36666.0,UniABCD,2023-05-04,48,2,560.36,ultimo modulo cursado em 2023,2023-05-26,7,0
+9898.0,UniABCD,2022-01-11,203,2,774.5,ultimo modulo cursado ate 2022,2022-03-16,7,0
+8808.0,UniABCD,2023-01-03,83,2,583.0,ultimo modulo cursado ate 2022,2022-07-14,7,0
+7634.0,UniABCD,2022-01-11,203,2,534.56,ultimo modulo cursado ate 2022,2022-08-08,7,0
+9643.0,UniABCD,2022-01-11,203,2,534.56,ultimo modulo cursado ate 2022,2022-08-29,7,0
+7418.0,UniABCD,2022-01-11,203,2,616.66,ultimo modulo cursado ate 2022,2022-02-12,7,0
+10564.0,UniABCD,2022-01-11,203,2,603.2,ultimo modulo cursado ate 2022,2022-02-08,7,0
+8425.0,UniABCD,2022-01-11,203,2,572.72,ultimo modulo cursado ate 2022,2022-11-08,7,0
+9619.0,UniABCD,2022-01-11,203,2,577.44,ultimo modulo cursado ate 2022,2022-02-09,7,0
+10464.0,UniABCD,2022-05-11,199,2,559.86,ultimo modulo cursado ate 2022,2022-10-28,7,0
+9757.0,UniABCD,2022-01-11,203,2,577.44,ultimo modulo cursado ate 2022,2022-09-06,7,0
+9046.0,UniABCD,2022-01-11,203,2,603.2,ultimo modulo cursado ate 2022,2022-03-23,7,0
+9923.0,UniABCD,2022-01-11,203,2,603.2,ultimo modulo cursado ate 2022,2022-10-13,7,0
+31137.0,UniABCD,2023-05-04,48,2,560.36,ultimo modulo cursado em 2023,2023-03-05,7,0
+9021.0,UniABCD,2022-01-11,203,2,577.44,ultimo modulo cursado ate 2022,2022-01-08,7,0
+9749.0,UniABCD,2022-01-11,203,2,534.56,ultimo modulo cursado ate 2022,2021-03-25,7,0
+9031.0,UniABCD,2022-05-11,199,2,446.0,ultimo modulo cursado ate 2022,2022-08-23,7,0
+9593.0,UniABCD,2022-01-11,203,2,603.2,ultimo modulo cursado ate 2022,2022-07-20,7,0
+9662.0,UniABCD,2022-01-11,203,2,616.66,ultimo modulo cursado ate 2022,2022-07-13,7,0
+36756.0,UniABCD,2023-01-04,52,2,517.0,ultimo modulo cursado ate 2022,2022-05-18,7,0
+8472.0,UniABCD,2022-01-11,203,2,616.66,ultimo estagio cursado,2022-03-10,11,0
+9689.0,UniABCD,2022-01-11,203,2,534.56,ultimo estagio cursado,2021-10-18,11,0
+36771.0,UniABCD,2023-05-04,48,2,815.16,ultimo modulo cursado em 2023,2023-05-24,7,0
+10572.0,UniABCD,2022-01-11,203,2,534.56,ultimo modulo cursado ate 2022,2022-03-18,7,0
+36772.0,UniABCD,2023-05-04,48,2,550.94,ultimo modulo cursado em 2023,2023-08-05,7,0
+7398.0,UniABCD,2022-01-11,203,2,534.56,ultimo modulo cursado ate 2022,2022-09-09,7,0
+8407.0,UniABCD,2022-05-11,199,2,524.22,ultimo modulo cursado ate 2022,2022-09-29,7,0
+36801.0,UniABCD,2023-01-04,52,2,589.16,ultimo modulo cursado ate 2022,2022-04-27,7,0
+10271.0,UniABCD,2022-05-11,199,2,520.0,ultimo modulo cursado em 2023,2023-05-04,7,0
+8926.0,UniABCD,2022-01-11,203,2,517.0,ultimo estagio cursado,2022-03-10,11,0
+7639.0,UniABCD,2022-01-11,203,2,808.5,ultimo modulo cursado ate 2022,2022-04-28,7,0
+39221.0,UniABCD,2023-05-05,18,1,294.83,ultimo modulo cursado em 2023,2023-05-15,7,0
+8885.0,UniABCD,2022-01-11,203,1,267.28,ultimo modulo cursado ate 2022,2022-06-30,7,0
+39095.0,UniABCD,2023-05-05,18,1,280.18,ultimo modulo cursado em 2023,2023-05-16,7,0
+9019.0,UniABCD,2022-01-11,203,1,404.25,ultimo modulo cursado ate 2022,2020-06-02,7,0
+39218.0,UniABCD,2023-05-05,18,1,294.83,ultimo modulo cursado em 2023,2023-04-19,7,0
+39145.0,UniABCD,2023-05-05,18,1,250.0,ultimo modulo cursado em 2023,2023-05-24,7,0
+39100.0,UniABCD,2023-01-05,22,1,267.28,ultimo modulo cursado ate 2022,2021-10-22,7,0
+39092.0,UniABCD,2023-09-05,14,1,325.2,ultimo modulo cursado ate 2022,2022-06-15,7,0
+39161.0,UniABCD,2023-05-05,18,1,294.83,ultimo modulo cursado em 2023,2023-05-15,7,0
+39147.0,UniABCD,2023-05-05,18,1,294.83,ultimo modulo cursado ate 2022,2019-06-25,7,0
+21198.0,UniABCD,2023-05-02,107,1,279.93,ultimo modulo cursado em 2023,2023-07-03,7,0
+9380.0,UniABCD,2022-01-11,203,1,301.6,ultimo modulo cursado ate 2022,2022-09-20,7,0
+9565.0,UniABCD,2022-01-11,203,1,292.93,ultimo modulo cursado ate 2022,2022-12-04,7,0
+39660.0,UniABCD,2023-05-05,18,1,230.0,ultimo modulo cursado em 2023,2023-08-05,7,0
+10147.0,UniABCD,2022-01-11,203,1,252.96,ultimo estagio cursado,2022-11-08,11,0
+39162.0,UniABCD,2023-05-05,18,1,250.0,ultimo modulo cursado em 2023,2023-05-24,7,0
+39256.0,UniABCD,2023-05-05,18,1,294.83,ultimo modulo cursado em 2023,2023-05-04,7,0
+39237.0,UniABCD,2023-05-05,18,1,294.83,ultimo modulo cursado em 2023,2023-05-16,7,0
+39276.0,UniABCD,2023-05-05,18,1,230.0,ultimo modulo cursado em 2023,2023-11-05,7,0
+39226.0,UniABCD,2023-05-05,18,1,294.83,ultimo modulo cursado em 2023,2023-05-25,7,0
+36714.0,UniABCD,2023-01-04,52,1,294.83,ultimo estagio cursado,2019-05-13,11,0
+39206.0,UniABCD,2023-05-05,18,1,294.83,ultimo modulo cursado em 2023,2023-05-15,7,0
+31177.0,UniABCD,2023-05-03,79,1,294.83,ultimo modulo cursado em 2023,2023-03-16,7,0
+39308.0,UniABCD,2023-05-05,18,1,280.18,ultimo modulo cursado em 2023,2023-04-19,7,0
+11561.0,UniABCD,2023-01-05,22,1,503.51,ultimo modulo cursado/rescisao de contrato,2021-04-29,15,0
+39313.0,UniABCD,2023-05-05,18,1,387.29,ultimo modulo cursado em 2023,2023-05-31,7,0
+7781.0,UniABCD,2022-01-11,203,1,267.28,ultimo modulo cursado ate 2022,2022-06-30,7,0
+8492.0,UniABCD,2022-01-11,203,1,420.13,ultimo estagio cursado,2022-09-20,11,0
+39254.0,UniABCD,2023-05-05,18,1,250.0,ultimo modulo cursado em 2023,2023-08-05,7,0
+39252.0,UniABCD,2023-11-05,12,1,292.93,ultimo estagio cursado,2020-11-23,11,0
+39087.0,UniABCD,2023-01-05,22,1,280.18,ultimo modulo cursado ate 2022,2020-09-29,7,0
